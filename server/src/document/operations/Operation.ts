@@ -1,13 +1,12 @@
-import OperationType from './OpType';
 
 
 class Operation {
 
-  // the type of the operation
-  type: OperationType;
+  // the operation's index in the chain
+  index: number;
 
-  constructor (type: OperationType) {
-    this.type = type;
+  constructor (index: number) {
+    this.index = index;
   }
 }
 

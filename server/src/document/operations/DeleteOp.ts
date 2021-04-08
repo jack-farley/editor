@@ -1,5 +1,4 @@
 import Operation from "./Operation";
-import OperationType from "./OpType";
 
 
 class DeleteOp extends Operation {
@@ -13,8 +12,8 @@ class DeleteOp extends Operation {
   // EXAMPLE: If we have a string abcdefghi, del(2, 4) would remove
   // the characters cdef.
 
-  constructor(type: OperationType, location: number, length: number) {
-      super(type);
+  constructor(index: number, location: number, length: number) {
+      super(index);
       this.location = location;
       this.length = length;
   }

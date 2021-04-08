@@ -1,5 +1,4 @@
 import Operation from "./Operation";
-import OperationType from "./OpType";
 
 
 class InsertOp extends Operation {
@@ -7,8 +6,8 @@ class InsertOp extends Operation {
   location: number;
   text: string;
 
-  constructor(type: OperationType, location: number, text: string) {
-      super(type);
+  constructor(index: number, location: number, text: string) {
+      super(index);
       this.location = location;
       this.text = text;
   }
