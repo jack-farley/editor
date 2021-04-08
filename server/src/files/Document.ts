@@ -13,6 +13,8 @@ class Document {
   // the id of the document
   private id: string;
 
+  private name: string;
+
   private currentText: string;
   private currentVersion: number;
 
@@ -20,7 +22,8 @@ class Document {
   private operations: Operation[];
 
   // create a document
-  constructor (startingText : string) {
+  constructor (name: string, startingText : string) {
+    this.name = name;
     this.id = uniqid();
 
     this.currentText = "";
@@ -29,7 +32,13 @@ class Document {
     this.operations = [];
 
     // add the starting text
-    this.transformAndAdd(new InsertOp(0, 0, startingText));
+    if (startingText.length > 0) {
+      this.transformAndAdd(new InsertOp(0, 0, startingText));
+    }
+  }
+
+  public getId() {
+    return this.id;
   }
 
 
