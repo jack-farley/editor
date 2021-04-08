@@ -24,4 +24,6 @@ class FileSystem {
   }
 }
 
-export default FileSystem;
+const fs = new FileSystem();
+
+export default fs;

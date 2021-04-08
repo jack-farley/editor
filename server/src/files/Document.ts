@@ -1,8 +1,11 @@
 import uniqid from 'uniqid';
 import { EventEmitter } from 'events';
-import { Operation, TransformOp, InsertOp, DeleteOp } from './operations';
+import { Container } from 'typedi';
 import { assert } from 'node:console';
+
+import { Operation, InsertOp, DeleteOp } from '../operations';
 import { Lock } from '../util/Lock';
+import { TransformOpService } from '../services';
 
 
 class Document {
@@ -11,15 +14,15 @@ class Document {
   private Lock = new Lock();
 
   // the id of the document
-  private id: string;
+  public id: string;
 
-  private name: string;
+  public name: string;
 
-  private currentText: string;
-  private currentVersion: number;
+  public currentText: string;
+  public currentVersion: number;
 
   // the list of operations
-  private operations: Operation[];
+  public operations: Operation[];
 
   // create a document
   constructor (name: string, startingText : string) {
@@ -75,7 +78,8 @@ class Document {
 
       // otherwise, continue transforming
       else {
-        const transformed : Operation[] = TransformOp(this.operations[op.index], op);
+        const transformOpInstance = Container.get(TransformOpService);
+        const transformed : Operation[] = transformOpInstance.TransformOp(this.operations[op.index], op);
         opQueue.concat(transformed);
       }
     }
