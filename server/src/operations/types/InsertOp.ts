@@ -1,4 +1,4 @@
-import Operation from "../Operation";
+import { Operation, OpType } from "..";
 
 
 class InsertOp extends Operation {
@@ -10,6 +10,15 @@ class InsertOp extends Operation {
       super(index);
       this.location = location;
       this.text = text;
+  }
+
+  toJSON () {
+    return {
+      index: this.index,
+      type: OpType.InsertOp,
+      location: this.location,
+      text: this.text,
+    }
   }
 }
 

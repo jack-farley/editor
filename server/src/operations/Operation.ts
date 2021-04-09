@@ -8,6 +8,12 @@ class Operation {
   constructor (index: number) {
     this.index = index;
   }
+
+  toJSON () {
+    return {
+      index: this.index,
+    }
+  }
 }
 
 export default Operation;

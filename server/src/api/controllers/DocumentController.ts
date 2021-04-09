@@ -10,7 +10,7 @@ class DocumentController {
       const documentServiceInstance = Container.get(DocumentService);
       const documents = documentServiceInstance.getDocuments();
 
-      return res.status(200).json(JSON.stringify(documents));
+      return res.status(Status.OK).json(JSON.stringify(documents));
     } catch(err) {
       return next(err);
     }
@@ -27,7 +27,7 @@ class DocumentController {
       const documentServiceInstance = Container.get(DocumentService);
       const docId = documentServiceInstance.createDocument(name, content);
 
-      return res.status(200).json(JSON.stringify(docId));
+      return res.status(Status.OK).json(JSON.stringify(docId));
     } catch(err) {
       return next(err);
     }

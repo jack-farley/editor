@@ -1,4 +1,4 @@
-import Operation from "../Operation";
+import { Operation, OpType } from "..";
 
 
 class DeleteOp extends Operation {
@@ -16,6 +16,15 @@ class DeleteOp extends Operation {
       super(index);
       this.location = location;
       this.length = length;
+  }
+
+  toJSON () {
+    return {
+      index: this.index,
+      type: OpType.DeleteOp,
+      location: this.location,
+      length: this.length,
+    }
   }
 }
 
