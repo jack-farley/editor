@@ -1,13 +1,16 @@
 import { Request, Response, NextFunction } from 'express';
 import { Container } from 'typedi';
 import { Status } from '../HttpStatusCode';
-import fs from '../../files/FileSystem';
+import { DocumentService } from '../../services';
 
 class DocumentController {
 
   async getDocuments (req : Request, res : Response, next : NextFunction) {
     try {
-      res.send(200).json(JSON.stringify(fs.getDocuments()));
+      const documentServiceInstance = Container.get(DocumentService);
+      const documents = documentServiceInstance.getDocuments();
+      
+      res.send(200).json(JSON.stringify(documents));
     } catch(err) {
       return next(err);
     }
@@ -21,7 +24,8 @@ class DocumentController {
       var content = req.body.content;
       if (!content) content = "";
 
-      const doc = fs.createDocument(name, content);
+      const documentServiceInstance = Container.get(DocumentService);
+      const doc = documentServiceInstance.createDocument(name, content);
 
       res.send(200).json(JSON.stringify(doc));
     } catch(err) {

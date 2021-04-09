@@ -8,9 +8,9 @@ class FileSystem {
     this.documents = new Map();
   }
 
-  public createDocument(name: string, text: string) {
-    const newDoc = new Document(name, text);
-    this.documents.set(newDoc.getId(), newDoc);
+  public createDocument(name: string) {
+    const newDoc = new Document(name);
+    this.documents.set(newDoc.id, newDoc);
 
     return newDoc;
   }
@@ -19,8 +19,8 @@ class FileSystem {
     return this.documents.get(id);
   }
 
-  public getDocuments() {
-    return this.documents.values();
+  public getDocumentIds() {
+    return this.documents.keys();
   }
 }
 
