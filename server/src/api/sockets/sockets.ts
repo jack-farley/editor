@@ -69,3 +69,5 @@ const sockets = (app : Application) => {
     });
   });
 }
+
+export default sockets;

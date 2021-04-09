@@ -1,7 +1,7 @@
 import { Application } from 'express';
 import cors from 'cors';
 import bodyParser from 'body-parser';
-import routes from '../api';
+import { routes, sockets } from '../api';
 import config from '../config';
 import { Status } from '../api/HttpStatusCode';
 
@@ -26,4 +26,6 @@ export default (app : Application) => {
   // load the api routes
   app.use(config.api.prefix, routes());
 
+  // load the sockets
+  sockets(app);
 }
