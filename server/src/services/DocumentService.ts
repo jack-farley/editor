@@ -33,20 +33,21 @@ export default class DocumentService {
     if (startingText.length > 0) {
       this.addOp(doc.id, new InsertOp(0, 0, startingText));
     }
+
+    return doc.id;
   }
 
   public getDocuments() {
-    return fs.getDocumentIds();
+    return Array.from(fs.getDocumentIds());
   }
 
   private getDocString(docId: string) {
     const doc = fs.getDocument(docId);
 
-    var res = "";
+    let res = "";
 
-    for (var index = 0; index < doc.operations.length; index ++) {
-      const op = doc.operations[index];
-      
+    for (const op of doc.operations) {
+
       if (op instanceof InsertOp) {
         const firstSection = res.slice(0, op.location);
         const secondSection = res.slice(op.location + op.text.length, res.length);
@@ -92,20 +93,20 @@ export default class DocumentService {
 
     // keep transforming the operation(s) until it is ready to be added
     while (opQueue.length > 0) {
-      const op = opQueue.shift();
-      
+      const currentOp = opQueue.shift();
+
       // if our operation has been fully transformed, add it to the document
       const numOps = this.getNumOps(docId);
-      if (op.index >= numOps) {
-        op.index = numOps;
-        this.addOp(docId, op);
+      if (currentOp.index >= numOps) {
+        currentOp.index = numOps;
+        this.addOp(docId, currentOp);
       }
 
       // otherwise, continue transforming
       else {
         const transformOpInstance = Container.get(TransformOpService);
-        const transformed : Operation[] = 
-        transformOpInstance.TransformOp(this.getOp(docId, op.index), op);
+        const transformed : Operation[] =
+        transformOpInstance.TransformOp(this.getOp(docId, currentOp.index), currentOp);
         opQueue.concat(transformed);
       }
     }

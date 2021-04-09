@@ -9,8 +9,8 @@ class DocumentController {
     try {
       const documentServiceInstance = Container.get(DocumentService);
       const documents = documentServiceInstance.getDocuments();
-      
-      res.send(200).json(JSON.stringify(documents));
+
+      return res.status(200).json(JSON.stringify(documents));
     } catch(err) {
       return next(err);
     }
@@ -18,16 +18,16 @@ class DocumentController {
 
   async createdocument (req : Request, res : Response, next : NextFunction) {
     try {
-      var name = req.body.name;
+      let name = req.body.name;
       if (!name) name = "New Document";
 
-      var content = req.body.content;
+      let content = req.body.content;
       if (!content) content = "";
 
       const documentServiceInstance = Container.get(DocumentService);
-      const doc = documentServiceInstance.createDocument(name, content);
+      const docId = documentServiceInstance.createDocument(name, content);
 
-      res.send(200).json(JSON.stringify(doc));
+      return res.status(200).json(JSON.stringify(docId));
     } catch(err) {
       return next(err);
     }
