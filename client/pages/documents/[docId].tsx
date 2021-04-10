@@ -1,7 +1,17 @@
+import React, { useState, useEffect } from 'react';
+
 import Editor from '../../components/editor';
-import { getDocIds } from '../../lib/documents';
+import { getDocIds } from '../../lib/files';
+import getConfig from 'next/config';
+
+const { serverRuntimeConfig, publicRuntimeConfig } = getConfig()
+const endpoint = serverRuntimeConfig.backendApi;
 
 export default function Document() {
+
+  const loadDoc = () => {
+    
+  }
 
   return (
     <div>
@@ -20,6 +30,6 @@ export async function getStaticPaths() {
   }
 }
 
-export async function getSTaticProps({ params }) {
+export async function getStaticProps({ params }) {
 
 }

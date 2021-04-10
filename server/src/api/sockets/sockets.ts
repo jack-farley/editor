@@ -45,7 +45,7 @@ const sockets = (app : Application) => {
         const addedOps = await DocumentServiceInstance.pushClientOp(docId, op);
 
         // send back the ops that were added
-        io.to(socket.id).emit('acknowledge-op', {addedOps});
+        io.to(socket.id).emit('acknowledge-op');
       }
 
       // delete op
