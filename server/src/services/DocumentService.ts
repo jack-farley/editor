@@ -92,7 +92,7 @@ export default class DocumentService {
 
 
     // notify listeners of the operation
-    this.eventEmitter.emit('new_op_' + docId, op);
+    this.eventEmitter.emit('new_op', {docId, op});
   }
 
   // send an operation from the client to the document
@@ -127,7 +127,7 @@ export default class DocumentService {
     }
 
     // send back the ops that have been added
-    return addedOps.map((op) => {return op.toJSON()});
+    return addedOps.map((addedOp) => {return addedOp.toJSON()});
   }
 
   public async loadDoc(docId : string) {

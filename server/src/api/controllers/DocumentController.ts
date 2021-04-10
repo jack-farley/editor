@@ -8,7 +8,7 @@ class DocumentController {
   async getDocuments (req : Request, res : Response, next : NextFunction) {
     try {
       const documentServiceInstance = Container.get(DocumentService);
-      const documents = documentServiceInstance.getDocuments();
+      const documents = await documentServiceInstance.getDocuments();
 
       return res.status(Status.OK).json(JSON.stringify(documents));
     } catch(err) {
@@ -25,7 +25,7 @@ class DocumentController {
       if (!content) content = "";
 
       const documentServiceInstance = Container.get(DocumentService);
-      const docId = documentServiceInstance.createDocument(name, content);
+      const docId = await documentServiceInstance.createDocument(name, content);
 
       return res.status(Status.OK).json(JSON.stringify(docId));
     } catch(err) {
