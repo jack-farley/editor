@@ -1,29 +1,36 @@
 import Link from 'next/link';
 import { getDocIds } from '../lib/files';
 
-export default function Home ({ allDocIds }) {
+type HomeProps = {
+  allDocIds: string[]
+}
+
+export default function Home ({ allDocIds }: HomeProps) {
+
+  console.log(allDocIds);
 
   return (
     <div>
       <h1>Documents</h1>
 
       <ul>
-        {allDocIds.map((docId, index) => {
-          <li key={docId}>
-            {docId}
-          </li>
+        {allDocIds.map((docId) => {
+          return (
+            <li key={docId}>
+              <Link href={`/documents/${docId}`}>
+              {docId}
+              </Link>
+            </li>
+          );
         })}
       </ul>
-
-      <Link href="documents/document">
-        <a>this page</a>
-      </Link>
     </div>
   )
 }
 
 export async function getStaticProps() {
   const allDocIds = await getDocIds();
+  console.log(allDocIds);
   return {
     props: {
       allDocIds

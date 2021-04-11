@@ -2,6 +2,7 @@ import { Application } from 'express';
 import { Socket } from 'socket.io';
 import { Container } from 'typedi';
 import { EventEmitter } from 'events';
+import { Logger } from 'winston';
 
 import { DocumentService } from '../../services';
 import { InsertOp, DeleteOp, OpType } from '../../operations';
@@ -9,17 +10,21 @@ import { InsertOp, DeleteOp, OpType } from '../../operations';
 
 const sockets = (app : Application) => {
 
+  const logger : Logger = Container.get('logger');
+
   const http = require('http').Server(app);
   const io = require('socket.io')(http);
 
 
   io.on('connection', (socket: Socket) => {
-    console.log('A user connected.');
+    logger.info('A use connected.');
 
     let currentDocId : string;
 
     // load document
     io.on('loadDoc', (data: any) => {
+      logger.info('A user requested to load a document.');
+
       const docId = data.docId;
       currentDocId = docId;
 
@@ -31,6 +36,8 @@ const sockets = (app : Application) => {
 
     // operation event
     io.on('operation', async (data: any) => {
+      logger.info('A user sent an operation.');
+
       const docId = data.docId;
       const index = data.index;
 
@@ -72,6 +79,8 @@ const sockets = (app : Application) => {
     const eventEmitter = new EventEmitter();
 
     eventEmitter.on('new_op', (data: any) => {
+      logger.info('A new event has been registered.');
+
       if (data.docId === currentDocId) {
         io.to(socket.id).emit('new-op', data.op);
       }
@@ -79,7 +88,7 @@ const sockets = (app : Application) => {
 
 
     socket.on('disconnect', () => {
-      console.log('A user disconnected.');
+      logger.info('A user diconnected.');
     });
   });
 }

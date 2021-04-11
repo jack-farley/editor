@@ -8,5 +8,9 @@ export default {
 
   api: {
     prefix: '/',
-  }
+  },
+
+  logs : {
+    level: process.env.LOG_LEVEL || 'silly',
+  },
 }

@@ -1,12 +1,13 @@
 import axios from 'axios';
-import getConfig from 'next/config';
 
-const { serverRuntimeConfig, publicRuntimeConfig } = getConfig()
-const address = serverRuntimeConfig.backendApi;
+const url = process.env.API_URL;
 
 export async function getDocIds() {
   try {
-    const docIds : any = await axios.get(address + '/documents');
+    console.log('Loading document ids.');
+    const response = await axios.get<string[]>(url + '/documents');
+    const docIds = response.data;
+    console.log('Done loading document Ids.');
 
     return docIds;
 

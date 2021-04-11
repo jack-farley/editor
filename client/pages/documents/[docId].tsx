@@ -1,18 +1,15 @@
 import React, { useState, useEffect } from 'react';
 import socketIOClient from 'socket.io-client';
-import { TextArea } from '@thumbtack/thumbprint-react';
 import { EventEmitter } from 'events';
 
 import { getDocIds } from '../../lib/files';
-import getConfig from 'next/config';
 import { Document, CreateOp, GetChanges } from '../../lib';
 
-const { serverRuntimeConfig, publicRuntimeConfig } = getConfig();
-const endpoint = serverRuntimeConfig.backendApi;
+
 const eventEmitter = new EventEmitter();
 
 
-export default function DocumentView ({ docId }) {
+export default function DocumentView ({ docId, url }) {
 
   const [document, setDocument] = useState(new Document([]));
   const [text, setText] = useState("");
@@ -29,13 +26,16 @@ export default function DocumentView ({ docId }) {
 
   // register confirmed op
   const registerConfirmed = (op : any) => {
+    console.log('Register confirmed');
     const operation = CreateOp(op);
     document.addConfirmedOp(operation, op.index);
   }
 
   // socket connection
   useEffect(() : any => {
-    const socket = socketIOClient(endpoint);
+    console.log('Setting up sockets');
+    const socket = socketIOClient(url);
+    console.log('Sockets connected.')
     socket.emit('loadDoc', { docId: docId });
 
     socket.on('fullDoc', (ops : any) => {
@@ -60,6 +60,7 @@ export default function DocumentView ({ docId }) {
 
   // send local ops to server
   useEffect(() => {
+    console.log('Sending Local Ops');
     if (!waiting && document.localOps.length > 0) {
       setWaiting(true);
       const opInfo : any = document.pullLocalOp();
@@ -70,12 +71,15 @@ export default function DocumentView ({ docId }) {
 
   // control textarea
   useEffect(() => {
+    console.log('Control Text Area');
     setText(document.localText);
   }, [document.localText, ])
 
 
   // local change
-  const localChange = (newText : string) => {
+  const localChange = (e : React.ChangeEvent<HTMLTextAreaElement>) => {
+    console.log('Local Change');
+    const newText = e.target.value;
     const newOps = GetChanges(text, newText);
     for (const op of newOps) {
       document.addLocalOp(op);
@@ -86,17 +90,24 @@ export default function DocumentView ({ docId }) {
   return (
     <div>
       <h1>Document</h1>
+      <form>
+        <textarea value={text} onChange={localChange} />
+      </form>
 
-      <TextArea 
-        value={text}
-        onChange={v => localChange(v)}
-      />
+      <h1>Bottom</h1>
     </div>
   )
 }
 
 export async function getStaticPaths() {
-  const paths = getDocIds();
+  const docIds = await getDocIds();
+  const paths = docIds.map((docId) => {
+    return {
+      params: {
+        docId: docId
+      }
+    }
+  });
   return {
     paths,
     fallback: false
@@ -105,9 +116,11 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const docId = params.docId;
+  const url = process.env.API_URL;
   return {
     props: {
-      docId
+      docId,
+      url
     }
   }
 
