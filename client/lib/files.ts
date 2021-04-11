@@ -8,15 +8,11 @@ export async function getDocIds() {
   try {
     const docIds : any = await axios.get(address + '/documents');
 
-    return docIds.map((docId : any) => {
-      return {
-        params: {
-          id: docId
-        }
-      }
-    });
+    return docIds;
+
   } catch (err) {
     console.error(err);
+    return [];
   }
 }
 

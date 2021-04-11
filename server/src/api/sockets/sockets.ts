@@ -26,7 +26,7 @@ const sockets = (app : Application) => {
       const DocumentServiceInstance = Container.get(DocumentService);
       const ops = DocumentServiceInstance.loadDoc(docId);
 
-      io.to(socket.id).emit('fullDoc', {ops});
+      io.to(socket.id).emit('fullDoc', ops);
     });
 
     // operation event
@@ -45,7 +45,7 @@ const sockets = (app : Application) => {
         const addedOps = await DocumentServiceInstance.pushClientOp(docId, op);
 
         // send back the ops that were added
-        io.to(socket.id).emit('acknowledge-op');
+        io.to(socket.id).emit('op-acknowledged');
       }
 
       // delete op
@@ -59,7 +59,7 @@ const sockets = (app : Application) => {
         const addedOps = await DocumentServiceInstance.pushClientOp(docId, op);
 
         // send back the ops that were added
-        io.to(socket.id).emit('op-added', {addedOps});
+        io.to(socket.id).emit('op-acknowledged');
       }
 
       // acknowledge
@@ -73,7 +73,7 @@ const sockets = (app : Application) => {
 
     eventEmitter.on('new_op', (data: any) => {
       if (data.docId === currentDocId) {
-        io.to(socket.id).emit('new-op', {op: data.op});
+        io.to(socket.id).emit('new-op', data.op);
       }
     });
 

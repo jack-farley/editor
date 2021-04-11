@@ -3,13 +3,13 @@ import { Operation, InsertOp, DeleteOp, Transform } from './operations';
 class Document {
 
   private confirmedOps : Operation[];
-  private localOps : Operation[];
+  public localOps : Operation[];
   private pendingOps : Operation[];
 
   private confirmedText: string;
   private confirmedVersion: number;
 
-  private localText: string;
+  public localText: string;
   private localVersion: number;
 
   constructor (ops : Operation[]) {
@@ -87,7 +87,7 @@ class Document {
     this.localText = this.UpdateText(this.localText, [newOp, ]);
   }
 
-  public pullLocalOp () : Operation {
+  public pullLocalOp () {
     if (this.localOps.length === 0) {
       return null;
     }
@@ -95,7 +95,23 @@ class Document {
     const op = this.localOps.shift();
     this.pendingOps.push();
 
-    return op;
+    if (op instanceof InsertOp) {
+      return {
+        index: this.confirmedOps.length + this.pendingOps.length,
+        local: op.location,
+        text: op.text,
+      }
+    }
+
+    else if (op instanceof DeleteOp) {
+      return {
+        index: this.confirmedOps.length + this.pendingOps.length,
+        local: op.location,
+        length: op.length,
+      }
+    }
+
+    return null;
   }
 }
 
