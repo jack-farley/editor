@@ -4,13 +4,13 @@ import { EventEmitter } from 'events';
 import { TransformOpService } from '.';
 import { Operation, InsertOp, DeleteOp } from '../operations';
 import { FileSystem } from '../files';
+import logger from "../loaders/logger";
+import eventEmitter from '../loaders/events';
 
 const fs = FileSystem;
 
 @Service()
 export default class DocumentService {
-
-  private eventEmitter: EventEmitter = new EventEmitter();
 
 
   // DOCUMENT ABSTRACTION
@@ -50,7 +50,7 @@ export default class DocumentService {
 
       if (op instanceof InsertOp) {
         const firstSection = res.slice(0, op.location);
-        const secondSection = res.slice(op.location + op.text.length, res.length);
+        const secondSection = res.slice(op.location, res.length);
         res = firstSection + op.text + secondSection;
         continue;
       }
@@ -61,11 +61,13 @@ export default class DocumentService {
         continue;
       }
     }
+    console.log(res);
 
     return res;
   }
 
   private getOps (docId: string) {
+    logger.info(fs.getDocument(docId));
     return fs.getDocument(docId).operations;
   }
 
@@ -92,7 +94,8 @@ export default class DocumentService {
 
 
     // notify listeners of the operation
-    this.eventEmitter.emit('new_op', {docId, op});
+    logger.info('Emitting new op event.');
+    eventEmitter.emit('new-op', {docId, op});
   }
 
   // send an operation from the client to the document
@@ -126,13 +129,20 @@ export default class DocumentService {
       }
     }
 
+    for (const addedOp of addedOps) {
+      this.addOpToDoc(docId, addedOp);
+    }
+
     // send back the ops that have been added
     return addedOps.map((addedOp) => {return addedOp.toJSON()});
   }
 
   public async loadDoc(docId : string) {
+    logger.info('Loading document in service');
     const ops = this.getOps(docId);
+    logger.info(ops);
     const res = ops.map((op) => {return op.toJSON()});
+    logger.info(res);
     return res;
   }
 }

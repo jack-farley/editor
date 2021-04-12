@@ -1,4 +1,4 @@
-import { Operation, InsertOp, DeleteOp, Transform } from './operations';
+import { Operation, InsertOp, DeleteOp, Transform, OpType } from './operations';
 
 class Document {
 
@@ -17,16 +17,36 @@ class Document {
 
     this.localOps = [];
     this.pendingOps = [];
+
+    this.confirmedText = this.UpdateText("", this.confirmedOps);
+    this.confirmedVersion = this.confirmedOps.length - 1;
+     
+    this.localText = this.confirmedText;
+    this.localVersion = this.confirmedVersion;
+  }
+
+  private updateLocalText (text : string) {
+    console.log('Updating local text');
+    this.localText = text;
+  }
+
+  private pushLocalOp(op : Operation) {
+    console.log('Pushing local op');
+    this.localOps.push(op);
+  }
+
+  private setLocalOps(ops : Operation[]) {
+    this.localOps = ops;
   }
 
   private UpdateText(text: string, ops: Operation[]) {
-    let res = "";
+    let res = text;
 
     for (const op of ops) {
 
       if (op instanceof InsertOp) {
         const firstSection = res.slice(0, op.location);
-        const secondSection = res.slice(op.location + op.text.length, res.length);
+        const secondSection = res.slice(op.location, res.length);
         res = firstSection + op.text + secondSection;
         continue;
       }
@@ -68,23 +88,25 @@ class Document {
         newLocalOps.push(transformedOp);
       }
     }
-    this.localOps = newLocalOps;
+    this.setLocalOps(newLocalOps);
 
     // update current Strings
     this.confirmedVersion ++;
     this.confirmedText = this.UpdateText(this.confirmedText, [newOp, ]);
 
     this.localVersion = this.confirmedOps.length + this.pendingOps.length + this.localOps.length - 1;
-    this.localText = this.UpdateText(this.confirmedText, this.pendingOps.concat(this.localOps));
+    this.updateLocalText(this.UpdateText(this.confirmedText, this.pendingOps.concat(this.localOps)));
   }
 
   public addLocalOp(newOp : Operation) {
+
+    console.log(newOp);
     
-    this.localOps.push(newOp);
+    this.pushLocalOp(newOp);
 
     // update local text, version
     this.localVersion ++;
-    this.localText = this.UpdateText(this.localText, [newOp, ]);
+    this.updateLocalText(this.UpdateText(this.localText, [newOp, ]));
   }
 
   public pullLocalOp () {
@@ -97,16 +119,18 @@ class Document {
 
     if (op instanceof InsertOp) {
       return {
+        type: OpType.InsertOp,
         index: this.confirmedOps.length + this.pendingOps.length,
-        local: op.location,
+        location: op.location,
         text: op.text,
       }
     }
 
     else if (op instanceof DeleteOp) {
       return {
+        type: OpType.DeleteOp,
         index: this.confirmedOps.length + this.pendingOps.length,
-        local: op.location,
+        location: op.location,
         length: op.length,
       }
     }

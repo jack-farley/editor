@@ -21,7 +21,7 @@ export default function Home () {
         {docIds.map((docId) => {
           return (
             <li key={docId}>
-              <Link to={`/documents/${docId}`}>
+              <Link to={`/${docId}`}>
               {docId}
               </Link>
             </li>

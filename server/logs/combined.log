@@ -1,303 +1,790 @@
-{"timestamp":"2021-04-11 18:05:05","level":"info","message":"Dependency Injector loaded."}
-{"timestamp":"2021-04-11 18:05:05","level":"info","message":"Express loaded."}
-{"timestamp":"2021-04-11 18:05:06","level":"info","message":"Sockets loaded."}
-{"timestamp":"2021-04-11 18:05:33","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:05:39","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:05:45","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:05:47","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 18:05:50","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
-{"timestamp":"2021-04-11 18:05:51","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:05:51","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
-{"timestamp":"2021-04-11 18:05:54","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 18:05:55","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:06:00","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:06:05","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:06:11","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:06:14","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:08:50","level":"info","message":"Dependency Injector loaded."}
-{"timestamp":"2021-04-11 18:08:50","level":"info","message":"Express loaded."}
-{"timestamp":"2021-04-11 18:08:50","level":"info","message":"Sockets loaded."}
-{"timestamp":"2021-04-11 18:08:54","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:08:54","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:08:55","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:09:02","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:09:03","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:09:25","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
-{"timestamp":"2021-04-11 18:09:26","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
-{"timestamp":"2021-04-11 18:09:29","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 18:09:31","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:09:34","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:09:34","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:10:35","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:10:35","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:10:39","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:10:40","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:10:40","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:11:30","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:11:30","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:11:32","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:11:32","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:11:33","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:12:35","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:12:35","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:12:35","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:12:35","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:12:36","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:13:57","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:13:58","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:13:58","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:13:58","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:13:59","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:17:51","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:17:51","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:17:52","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:17:52","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:17:53","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:18:15","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:18:15","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:18:15","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:18:16","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:18:17","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:22:31","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:22:31","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:22:32","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:22:32","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:22:33","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:22:50","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:22:50","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:22:51","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:22:51","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:22:52","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:23:48","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:23:48","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:23:48","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:23:48","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:23:49","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:27:50","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:27:50","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:27:51","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:27:51","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:27:52","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:33:04","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:33:04","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:33:05","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:33:05","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:33:06","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:33:54","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:33:54","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:34:02","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:34:02","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:34:09","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:34:09","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:34:15","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:34:15","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:34:17","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:34:18","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:34:19","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:34:56","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:34:56","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:34:58","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:34:58","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:34:59","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:35:19","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:35:46","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:35:48","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:35:48","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:35:49","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:37:57","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:37:57","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:37:57","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:37:57","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:37:58","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:50:12","level":"info","message":"Dependency Injector loaded."}
-{"timestamp":"2021-04-11 18:50:12","level":"info","message":"Express loaded."}
-{"timestamp":"2021-04-11 18:50:12","level":"info","message":"Sockets loaded."}
-{"timestamp":"2021-04-11 18:50:17","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 18:50:37","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 18:50:38","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 18:50:45","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 19:01:43","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
-{"timestamp":"2021-04-11 19:01:54","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
-{"timestamp":"2021-04-11 19:01:56","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 19:04:23","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 19:04:27","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 19:13:37","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 19:13:38","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 19:14:21","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 19:14:21","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 19:14:28","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 19:14:28","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 19:14:28","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 19:14:28","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 19:14:29","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 19:15:57","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 19:15:57","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 19:15:59","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 19:16:00","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 19:16:01","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 19:16:08","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 19:16:08","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 19:16:19","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 19:16:19","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 19:16:21","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 19:16:22","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 19:16:23","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 19:16:32","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 19:16:32","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 19:20:27","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 19:20:27","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 19:20:29","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 19:20:29","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 19:20:30","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:07:55","level":"info","message":"Dependency Injector loaded."}
-{"timestamp":"2021-04-11 20:07:55","level":"info","message":"Express loaded."}
-{"timestamp":"2021-04-11 20:07:56","level":"info","message":"Sockets loaded."}
-{"timestamp":"2021-04-11 20:12:36","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 20:12:39","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
-{"timestamp":"2021-04-11 20:12:40","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
-{"timestamp":"2021-04-11 20:21:08","level":"http","message":"/documents - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 20:21:11","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:21:52","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:21:52","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:23:39","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:23:39","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:26:09","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:26:09","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:27:57","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:28:08","level":"http","message":"/documents - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 20:28:13","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:29:02","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:29:02","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:29:15","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:29:16","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:29:31","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:29:31","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:29:40","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:29:40","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:29:46","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:29:46","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:31:46","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:31:46","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:32:02","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:32:02","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:32:39","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:32:39","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:32:46","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:32:46","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:34:31","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:34:31","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:34:32","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:34:32","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:34:56","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:34:56","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:34:57","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:34:57","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:35:06","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:35:06","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:35:08","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:35:08","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:35:30","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:35:30","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:35:32","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:35:32","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:36:55","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:36:55","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:37:38","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:37:38","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:38:37","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:38:37","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:38:44","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:38:45","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:38:49","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:38:50","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:39:48","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:39:48","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:39:55","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:39:55","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:40:57","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:40:57","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:41:31","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:41:31","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:42:01","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:42:01","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:42:15","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:42:15","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:42:57","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:42:57","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:43:11","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:43:11","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:43:41","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:43:41","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:43:44","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:43:44","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:44:03","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:44:03","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:44:11","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:44:11","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:45:15","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:45:15","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:45:37","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:45:39","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:45:39","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:45:39","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:46:29","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:46:29","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:46:33","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:46:33","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:47:05","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:47:05","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:47:09","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:47:09","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:47:49","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:47:49","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:48:01","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:48:02","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:48:46","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:48:47","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:50:18","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:50:18","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:50:32","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:50:32","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:50:34","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:50:35","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:52:48","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:52:48","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:52:49","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:52:50","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:56:38","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 20:56:38","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 20:57:42","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 23:33:53","level":"info","message":"Dependency Injector loaded."}
-{"timestamp":"2021-04-11 23:33:53","level":"info","message":"Express loaded."}
-{"timestamp":"2021-04-11 23:33:54","level":"info","message":"Sockets loaded."}
-{"timestamp":"2021-04-11 23:34:19","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 23:34:22","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
-{"timestamp":"2021-04-11 23:34:23","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
-{"timestamp":"2021-04-11 23:34:26","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 23:35:34","level":"http","message":"/documents - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 23:35:37","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 23:37:35","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 23:37:35","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 23:37:56","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 23:37:57","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 23:39:32","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 23:39:32","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 23:39:34","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 23:39:34","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 23:47:18","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 23:47:18","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-11 23:47:20","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-11 23:47:20","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-12 00:01:06","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-12 00:01:06","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-12 00:01:27","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-12 00:01:27","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-12 00:02:11","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-12 00:02:11","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-12 00:03:21","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-12 00:03:21","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-12 00:03:39","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-12 00:03:39","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-12 00:03:42","level":"info","message":"A user diconnected."}
-{"timestamp":"2021-04-12 00:03:43","level":"info","message":"A use connected."}
-{"timestamp":"2021-04-12 00:03:55","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:17:52","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:17:52","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:17:52","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:17:52","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:17:53","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:18:32","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:18:32","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:18:41","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:18:41","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:18:43","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:18:46","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:18:46","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:18:46","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:18:47","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:21:31","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:21:31","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:21:31","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:21:31","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:21:31","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:21:35","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:21:39","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:21:39","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:21:41","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:21:47","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:21:48","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:21:48","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:21:49","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:21:49","level":"info","message":"documents"}
+{"timestamp":"2021-04-12 14:27:10","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:27:10","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:27:10","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:27:10","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:27:10","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:27:14","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:27:56","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:27:56","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:28:02","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:28:03","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:28:05","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:28:06","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:28:06","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:28:07","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:28:07","level":"info","message":"bylew0knexiaal"}
+{"timestamp":"2021-04-12 14:29:23","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:29:23","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:29:23","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:29:23","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:29:23","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:29:23","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:29:37","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:29:37","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:29:38","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:29:38","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:29:38","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:29:39","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:29:40","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:30:06","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:30:06","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:30:06","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:30:07","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:30:07","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:30:07","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:30:10","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:30:45","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:30:45","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:30:45","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:30:45","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:30:45","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:30:45","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:30:48","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:31:18","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:31:18","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:31:23","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:31:23","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:31:23","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:31:24","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:31:24","level":"info","message":"byl1rsknexmhaz"}
+{"timestamp":"2021-04-12 14:31:24","level":"info","message":{}}
+{"timestamp":"2021-04-12 14:31:24","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:33:37","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:33:37","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:33:37","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:33:38","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:33:38","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:33:38","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:33:38","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:36:04","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:36:04","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:36:04","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:36:04","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:36:04","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:36:04","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:36:08","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:36:27","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:36:27","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:36:27","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:36:31","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:36:32","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:36:34","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:36:34","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:36:34","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:36:35","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:36:35","level":"info","message":"bylhb4knext6u8"}
+{"timestamp":"2021-04-12 14:36:35","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:36:35","level":"info","message":{}}
+{"timestamp":"2021-04-12 14:36:35","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:37:22","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:37:22","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:37:22","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:37:22","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:37:22","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:37:25","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:37:27","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:38:03","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:38:03","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:38:03","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:38:03","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:38:03","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:38:03","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:38:05","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:38:11","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:38:12","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:38:15","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:38:15","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:38:15","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:38:16","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:38:16","level":"info","message":"bylg44knexvbws"}
+{"timestamp":"2021-04-12 14:38:16","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:38:16","level":"info","message":{"name":"Document 4","id":"bylg44knexvbws","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:38:16","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:38:16","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:38:16","level":"info","message":{}}
+{"timestamp":"2021-04-12 14:38:16","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:39:11","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:39:11","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:39:11","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:39:11","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:39:11","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:39:11","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:39:14","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:39:29","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:39:29","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:39:29","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:39:29","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:39:29","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:39:29","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:39:31","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:39:32","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:39:33","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:39:37","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:39:37","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:39:37","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:39:38","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:39:38","level":"info","message":"bylf6gknexx2th"}
+{"timestamp":"2021-04-12 14:39:38","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:39:38","level":"info","message":{"name":"Document 4","id":"bylf6gknexx2th","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:39:38","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:39:38","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:39:38","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:39:38","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:40:56","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:40:56","level":"info","message":"bylf6gknexx2th"}
+{"timestamp":"2021-04-12 14:40:56","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:40:56","level":"info","message":{"name":"Document 4","id":"bylf6gknexx2th","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:40:56","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:40:56","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:40:56","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:40:56","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:40:59","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:40:59","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:40:59","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:41:00","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:41:00","level":"info","message":"bylf6gknexx2th"}
+{"timestamp":"2021-04-12 14:41:00","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:41:00","level":"info","message":{"name":"Document 4","id":"bylf6gknexx2th","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:41:00","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:41:00","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:41:00","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:41:00","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:42:09","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:42:10","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:42:10","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:42:10","level":"info","message":"bylf6gknexx2th"}
+{"timestamp":"2021-04-12 14:42:10","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:42:10","level":"info","message":{"name":"Document 4","id":"bylf6gknexx2th","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:42:10","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:10","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:10","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:10","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:42:15","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:42:15","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:42:16","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:42:16","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:42:16","level":"info","message":"bylf6gknexx2th"}
+{"timestamp":"2021-04-12 14:42:16","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:42:16","level":"info","message":{"name":"Document 4","id":"bylf6gknexx2th","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:42:16","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:16","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:16","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:16","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:42:44","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:42:44","level":"info","message":"bylf6gknexx2th"}
+{"timestamp":"2021-04-12 14:42:44","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:42:44","level":"info","message":{"name":"Document 4","id":"bylf6gknexx2th","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:42:44","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:44","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:44","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:44","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:42:45","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:42:45","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:42:45","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:42:45","level":"info","message":"bylf6gknexx2th"}
+{"timestamp":"2021-04-12 14:42:45","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:42:45","level":"info","message":{"name":"Document 4","id":"bylf6gknexx2th","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:42:45","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:45","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:45","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:45","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:42:52","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:42:52","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:42:52","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:42:52","level":"info","message":"bylf6gknexx2th"}
+{"timestamp":"2021-04-12 14:42:52","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:42:52","level":"info","message":{"name":"Document 4","id":"bylf6gknexx2th","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:42:52","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:52","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:52","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:42:52","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:44:16","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:44:16","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:44:16","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:44:16","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:44:16","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:44:16","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:44:17","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:44:20","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:44:21","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:44:29","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:44:30","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:44:30","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:44:30","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:44:30","level":"info","message":"byl3jwkney38tf"}
+{"timestamp":"2021-04-12 14:44:30","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:44:30","level":"info","message":{"name":"Document 4","id":"byl3jwkney38tf","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:44:30","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:44:30","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:44:30","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:44:30","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:45:44","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:45:44","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:45:44","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:45:44","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:45:44","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:45:44","level":"info","message":"byl3jwkney38tf"}
+{"timestamp":"2021-04-12 14:45:44","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:45:44","level":"info"}
+{"timestamp":"2021-04-12 14:45:44","level":"error","message":"Cannot read property 'operations' of undefined","stack":"TypeError: Cannot read property 'operations' of undefined\n    at DocumentService.getOps (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:74:37)\n    at DocumentService.<anonymous> (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:126:30)\n    at Generator.next (<anonymous>)\n    at C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:14:71\n    at new Promise (<anonymous>)\n    at __awaiter (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:10:12)\n    at DocumentService.loadDoc (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:124:16)\n    at Socket.<anonymous> (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\api\\sockets\\sockets.js:20:37)\n    at Socket.emit (events.js:314:20)\n    at Socket.emitUntyped (C:\\Users\\Jack\\Dev\\editor\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)"}
+{"timestamp":"2021-04-12 14:45:44","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:45:46","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:45:48","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:45:52","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:45:53","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:45:57","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:45:57","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:45:57","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:45:58","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:45:58","level":"info","message":"byl7akkney57yu"}
+{"timestamp":"2021-04-12 14:45:58","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:45:58","level":"info","message":{"name":"Document 4","id":"byl7akkney57yu","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:45:58","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:45:58","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:45:58","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:45:58","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:46:16","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:46:16","level":"info","message":"byl7akkney57yu"}
+{"timestamp":"2021-04-12 14:46:16","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:46:16","level":"info","message":{"name":"Document 4","id":"byl7akkney57yu","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:46:16","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:46:16","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:46:16","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:46:16","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:48:18","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:48:18","level":"info","message":"byl7akkney57yu"}
+{"timestamp":"2021-04-12 14:48:18","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:48:18","level":"info","message":{"name":"Document 4","id":"byl7akkney57yu","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:48:18","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:48:18","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:48:18","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:48:18","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:48:22","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:48:22","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:48:22","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:48:23","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:48:23","level":"info","message":"byl7akkney57yu"}
+{"timestamp":"2021-04-12 14:48:23","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:48:23","level":"info","message":{"name":"Document 4","id":"byl7akkney57yu","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:48:23","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:48:23","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:48:24","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:48:24","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:48:33","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:48:33","level":"error","message":"Op Denied"}
+{"timestamp":"2021-04-12 14:48:49","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:48:49","level":"info","message":"byl7akkney57yu"}
+{"timestamp":"2021-04-12 14:48:49","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:48:49","level":"info","message":{"name":"Document 4","id":"byl7akkney57yu","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:48:49","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:48:49","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:48:49","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:48:49","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:48:51","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:48:51","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:48:51","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:48:51","level":"info","message":"byl7akkney57yu"}
+{"timestamp":"2021-04-12 14:48:51","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:48:51","level":"info","message":{"name":"Document 4","id":"byl7akkney57yu","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:48:51","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:48:51","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:48:51","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:48:51","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:48:53","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:48:53","level":"error","message":"Op Denied"}
+{"timestamp":"2021-04-12 14:49:56","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:49:56","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:49:56","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:49:56","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:49:56","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:49:56","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:49:58","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:50:02","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:50:03","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:50:13","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:50:13","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:50:13","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:50:14","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:50:14","level":"info","message":"byl6n4kneyako9"}
+{"timestamp":"2021-04-12 14:50:14","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:50:14","level":"info","message":{"name":"Document 4","id":"byl6n4kneyako9","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:50:14","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:50:14","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:50:14","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:50:14","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:50:29","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:50:29","level":"info","message":{"index":1,"local":4,"length":1,"docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:50:29","level":"error","message":"Op Denied"}
+{"timestamp":"2021-04-12 14:51:41","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:51:41","level":"info","message":"byl6n4kneyako9"}
+{"timestamp":"2021-04-12 14:51:41","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:51:41","level":"info","message":{"name":"Document 4","id":"byl6n4kneyako9","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:51:41","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:51:41","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:51:41","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:51:41","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:51:54","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:51:54","level":"info","message":"byl6n4kneyako9"}
+{"timestamp":"2021-04-12 14:51:54","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:51:54","level":"info","message":{"name":"Document 4","id":"byl6n4kneyako9","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:51:54","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:51:54","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:51:54","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:51:54","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:52:35","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:52:35","level":"info","message":"byl6n4kneyako9"}
+{"timestamp":"2021-04-12 14:52:35","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:52:35","level":"info","message":{"name":"Document 4","id":"byl6n4kneyako9","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:52:35","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:52:35","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:52:35","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:52:35","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:52:44","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:52:44","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:52:44","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:52:45","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:52:45","level":"info","message":"byl6n4kneyako9"}
+{"timestamp":"2021-04-12 14:52:45","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:52:45","level":"info","message":{"name":"Document 4","id":"byl6n4kneyako9","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:52:45","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:52:45","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:52:45","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:52:45","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:52:48","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:52:48","level":"info","message":{"type":"delete","index":1,"location":4,"length":1,"docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:52:48","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 14:53:49","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:53:49","level":"info","message":"byl6n4kneyako9"}
+{"timestamp":"2021-04-12 14:53:49","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:53:49","level":"info","message":{"name":"Document 4","id":"byl6n4kneyako9","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1}]}}
+{"timestamp":"2021-04-12 14:53:49","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 14:53:49","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 14:53:49","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 14:53:49","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:53:50","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:53:50","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:53:50","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:53:50","level":"info","message":"byl6n4kneyako9"}
+{"timestamp":"2021-04-12 14:53:50","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:53:50","level":"info","message":{"name":"Document 4","id":"byl6n4kneyako9","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1}]}}
+{"timestamp":"2021-04-12 14:53:50","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 14:53:50","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 14:53:50","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 14:53:50","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:54:02","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:54:03","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:54:03","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:54:04","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:54:04","level":"info","message":"byl6n4kneyako9"}
+{"timestamp":"2021-04-12 14:54:04","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:54:04","level":"info","message":{"name":"Document 4","id":"byl6n4kneyako9","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1}]}}
+{"timestamp":"2021-04-12 14:54:04","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 14:54:04","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 14:54:04","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 14:54:04","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:54:05","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:05","level":"info","message":{"type":"insert","index":2,"location":4,"text":"o","docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:54:05","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":{"type":"insert","index":2,"location":5,"text":" ","docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":{"type":"insert","index":2,"location":6,"text":"h","docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":{"type":"insert","index":2,"location":7,"text":"i","docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":{"type":"insert","index":2,"location":8,"text":" ","docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":{"type":"insert","index":2,"location":9,"text":"t","docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":{"type":"insert","index":2,"location":10,"text":"h","docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:54:06","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:07","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:07","level":"info","message":{"type":"insert","index":2,"location":11,"text":"e","docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:54:07","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:07","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:07","level":"info","message":{"type":"insert","index":2,"location":12,"text":"r","docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:54:07","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:07","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:07","level":"info","message":{"type":"insert","index":2,"location":13,"text":"e","docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:54:07","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:10","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:54:11","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:54:11","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:54:12","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:54:12","level":"info","message":"byl6n4kneyako9"}
+{"timestamp":"2021-04-12 14:54:12","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:54:12","level":"info","message":{"name":"Document 4","id":"byl6n4kneyako9","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"}]}}
+{"timestamp":"2021-04-12 14:54:12","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"}]}
+{"timestamp":"2021-04-12 14:54:12","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"}]}
+{"timestamp":"2021-04-12 14:54:12","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"}]}
+{"timestamp":"2021-04-12 14:54:12","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:54:15","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:54:16","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:54:16","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:54:17","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:54:17","level":"info","message":"byl6n4kneyal6w"}
+{"timestamp":"2021-04-12 14:54:17","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:54:17","level":"info","message":{"name":"Document 4","id":"byl6n4kneyal6w","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:54:17","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:54:17","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:54:17","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:54:17","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:54:19","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:19","level":"info","message":{"type":"insert","index":1,"location":5,"text":" ","docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:19","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":{"type":"insert","index":1,"location":6,"text":"h","docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":{"type":"insert","index":1,"location":7,"text":"i","docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":{"type":"insert","index":1,"location":8,"text":" ","docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":{"type":"insert","index":1,"location":9,"text":"t","docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":{"type":"insert","index":1,"location":10,"text":"h","docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":{"type":"insert","index":1,"location":11,"text":"e","docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":{"type":"insert","index":1,"location":12,"text":"r","docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:20","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:21","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:21","level":"info","message":{"type":"insert","index":1,"location":13,"text":"e","docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:21","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":{"type":"delete","index":1,"location":13,"length":1,"docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":{"type":"delete","index":1,"location":12,"length":1,"docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":{"type":"delete","index":1,"location":11,"length":1,"docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":{"type":"delete","index":1,"location":10,"length":1,"docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":{"type":"delete","index":1,"location":9,"length":1,"docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":{"type":"delete","index":1,"location":8,"length":1,"docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":{"type":"delete","index":1,"location":7,"length":1,"docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:26","level":"info","message":{"type":"delete","index":1,"location":6,"length":1,"docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:27","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:27","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:27","level":"info","message":{"type":"delete","index":1,"location":5,"length":1,"docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:27","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:27","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:27","level":"info","message":{"type":"delete","index":1,"location":4,"length":1,"docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:27","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:30","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:30","level":"info","message":{"type":"insert","index":1,"location":4,"text":"n","docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:30","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:34","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:34","level":"info","message":{"type":"insert","index":1,"location":5,"text":" ","docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:34","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:34","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:34","level":"info","message":{"type":"insert","index":1,"location":6,"text":"n","docId":"byl6n4kneyal6w"}}
+{"timestamp":"2021-04-12 14:54:34","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 14:54:42","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:54:43","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:54:43","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:54:43","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:54:43","level":"info","message":"byl6n4kneyako9"}
+{"timestamp":"2021-04-12 14:54:43","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:54:43","level":"info","message":{"name":"Document 4","id":"byl6n4kneyako9","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"}]}}
+{"timestamp":"2021-04-12 14:54:43","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"}]}
+{"timestamp":"2021-04-12 14:54:43","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"}]}
+{"timestamp":"2021-04-12 14:54:43","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"}]}
+{"timestamp":"2021-04-12 14:54:43","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:54:49","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:54:50","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:54:50","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:54:51","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:54:51","level":"info","message":"byl6n4kneyako9"}
+{"timestamp":"2021-04-12 14:54:51","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:54:51","level":"info","message":{"name":"Document 4","id":"byl6n4kneyako9","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"}]}}
+{"timestamp":"2021-04-12 14:54:51","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"}]}
+{"timestamp":"2021-04-12 14:54:51","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"}]}
+{"timestamp":"2021-04-12 14:54:51","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"}]}
+{"timestamp":"2021-04-12 14:54:51","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:54:52","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:54:52","level":"info","message":{"type":"delete","index":3,"location":4,"length":1,"docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:54:52","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 14:55:09","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:55:09","level":"info","message":{"type":"delete","index":3,"location":3,"length":1,"docId":"byl6n4kneyako9"}}
+{"timestamp":"2021-04-12 14:55:09","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 14:56:29","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:56:30","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:56:36","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:56:37","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:56:37","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:56:38","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:56:38","level":"info","message":"byl6n4kneyako9"}
+{"timestamp":"2021-04-12 14:56:38","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:56:38","level":"info","message":{"name":"Document 4","id":"byl6n4kneyako9","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"},{"index":3,"type":"delete","location":4,"length":1}]}}
+{"timestamp":"2021-04-12 14:56:38","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"},{"index":3,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 14:56:38","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"},{"index":3,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 14:56:38","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":1,"type":"delete","location":4,"length":1},{"index":2,"type":"insert","location":4,"text":"o"},{"index":3,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 14:56:38","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:56:55","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 14:56:55","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 14:56:55","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 14:56:55","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:56:55","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:56:55","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:56:57","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:57:01","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:57:02","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:57:06","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 14:57:06","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 14:57:06","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 14:57:07","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 14:57:07","level":"info","message":"bylfa0kneyjkaw"}
+{"timestamp":"2021-04-12 14:57:07","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 14:57:07","level":"info","message":{"name":"Document 4","id":"bylfa0kneyjkaw","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 14:57:07","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:57:07","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:57:07","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 14:57:07","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 14:57:13","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 14:57:13","level":"info","message":{"type":"delete","index":1,"location":4,"length":1,"docId":"bylfa0kneyjkaw"}}
+{"timestamp":"2021-04-12 14:57:13","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 15:00:05","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 15:00:05","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 15:00:05","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 15:00:05","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:00:05","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:00:07","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:00:07","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 15:00:09","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 15:00:09","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:00:15","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 15:00:15","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 15:00:16","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:00:16","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 15:00:16","level":"info","message":"bylhawkneynjvu"}
+{"timestamp":"2021-04-12 15:00:16","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 15:00:16","level":"info","message":{"name":"Document 4","id":"bylhawkneynjvu","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 15:00:16","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 15:00:16","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 15:00:16","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 15:00:16","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 15:00:18","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:00:18","level":"info","message":{"type":"delete","index":1,"location":4,"length":1,"docId":"bylhawkneynjvu"}}
+{"timestamp":"2021-04-12 15:00:18","level":"info","message":"Emitting new op event."}
+{"timestamp":"2021-04-12 15:00:18","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 15:02:21","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 15:02:21","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 15:02:21","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 15:02:21","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:02:21","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:02:23","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:02:25","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 15:02:25","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:02:26","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 15:02:32","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 15:02:33","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 15:02:33","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:02:34","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 15:02:34","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 15:02:35","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 15:02:38","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 15:02:38","level":"info","message":"byl608kneyqi83"}
+{"timestamp":"2021-04-12 15:02:38","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 15:02:38","level":"info","message":{"name":"Document 4","id":"byl608kneyqi83","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 15:02:38","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 15:02:38","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 15:02:38","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 15:02:38","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 15:02:39","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:02:39","level":"info","message":{"type":"delete","index":1,"location":4,"length":1,"docId":"byl608kneyqi83"}}
+{"timestamp":"2021-04-12 15:02:39","level":"info","message":"Emitting new op event."}
+{"timestamp":"2021-04-12 15:02:39","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 15:04:53","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 15:04:53","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 15:04:53","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 15:04:53","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:05:22","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 15:05:22","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 15:05:22","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 15:05:23","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:05:50","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 15:05:50","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 15:05:50","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 15:06:14","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-12 15:06:14","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-12 15:06:14","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-12 15:06:19","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:06:32","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 15:06:33","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-12 15:06:38","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 15:06:39","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 15:06:39","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:06:40","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 15:06:40","level":"info","message":"byl5a4kneyvsnw"}
+{"timestamp":"2021-04-12 15:06:40","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 15:06:40","level":"info","message":{"name":"Document 4","id":"byl5a4kneyvsnw","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}}
+{"timestamp":"2021-04-12 15:06:40","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 15:06:40","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 15:06:40","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"}]}
+{"timestamp":"2021-04-12 15:06:40","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 15:06:41","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:06:41","level":"info","message":{"type":"delete","index":1,"location":4,"length":1,"docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:06:41","level":"info","message":"Emitting new op event."}
+{"timestamp":"2021-04-12 15:06:41","level":"info","message":"A new event has been registered."}
+{"timestamp":"2021-04-12 15:06:41","level":"info","message":"Sending new op."}
+{"timestamp":"2021-04-12 15:06:41","level":"info","message":{"index":2,"type":"delete","location":4,"length":1}}
+{"timestamp":"2021-04-12 15:06:41","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:25","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 15:07:25","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 15:07:25","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:07:26","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 15:07:26","level":"info","message":"byl5a4kneyvsnw"}
+{"timestamp":"2021-04-12 15:07:26","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 15:07:26","level":"info","message":{"name":"Document 4","id":"byl5a4kneyvsnw","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1}]}}
+{"timestamp":"2021-04-12 15:07:26","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 15:07:26","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 15:07:26","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1}]}
+{"timestamp":"2021-04-12 15:07:26","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":{"type":"insert","index":3,"location":4,"text":"o","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"Emitting new op event."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"A new event has been registered."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"Sending new op."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":{"index":4,"type":"insert","location":4,"text":"o"}}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":{"type":"insert","index":3,"location":5,"text":" ","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":{"type":"insert","index":3,"location":6,"text":"t","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":{"type":"insert","index":3,"location":7,"text":"h","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":{"type":"insert","index":3,"location":8,"text":"i","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":{"type":"insert","index":3,"location":9,"text":"s","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":{"type":"insert","index":3,"location":10,"text":" ","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":{"type":"insert","index":3,"location":11,"text":"i","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":{"type":"insert","index":3,"location":12,"text":"s","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:28","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":{"type":"insert","index":3,"location":13,"text":" ","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":{"type":"insert","index":3,"location":14,"text":"j","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":{"type":"insert","index":3,"location":15,"text":"a","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":{"type":"insert","index":3,"location":16,"text":"c","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":{"type":"insert","index":3,"location":17,"text":"k","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:29","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:33","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 15:07:33","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 15:07:33","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:07:34","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 15:07:34","level":"info","message":"byl5a4kneyvsnw"}
+{"timestamp":"2021-04-12 15:07:34","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 15:07:34","level":"info","message":{"name":"Document 4","id":"byl5a4kneyvsnw","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1},{"index":4,"type":"insert","location":4,"text":"o"},{"index":4,"type":"insert","location":4,"text":"o"}]}}
+{"timestamp":"2021-04-12 15:07:34","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1},{"index":4,"type":"insert","location":4,"text":"o"},{"index":4,"type":"insert","location":4,"text":"o"}]}
+{"timestamp":"2021-04-12 15:07:34","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1},{"index":4,"type":"insert","location":4,"text":"o"},{"index":4,"type":"insert","location":4,"text":"o"}]}
+{"timestamp":"2021-04-12 15:07:34","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1},{"index":4,"type":"insert","location":4,"text":"o"},{"index":4,"type":"insert","location":4,"text":"o"}]}
+{"timestamp":"2021-04-12 15:07:34","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 15:07:36","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:36","level":"info","message":{"type":"delete","index":5,"location":5,"length":1,"docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:36","level":"info","message":"Emitting new op event."}
+{"timestamp":"2021-04-12 15:07:36","level":"info","message":"A new event has been registered."}
+{"timestamp":"2021-04-12 15:07:36","level":"info","message":"Sending new op."}
+{"timestamp":"2021-04-12 15:07:36","level":"info","message":{"index":6,"type":"delete","location":5,"length":1}}
+{"timestamp":"2021-04-12 15:07:36","level":"info","message":"Sent Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:37","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:37","level":"info","message":{"type":"insert","index":5,"location":5,"text":" ","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:37","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:38","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:38","level":"info","message":{"type":"insert","index":5,"location":6,"text":"t","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:38","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:45","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 15:07:46","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 15:07:46","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:07:46","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 15:07:46","level":"info","message":"byl5a4kneyvsnw"}
+{"timestamp":"2021-04-12 15:07:46","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 15:07:46","level":"info","message":{"name":"Document 4","id":"byl5a4kneyvsnw","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1},{"index":4,"type":"insert","location":4,"text":"o"},{"index":4,"type":"insert","location":4,"text":"o"},{"index":6,"type":"delete","location":5,"length":1},{"index":6,"type":"delete","location":5,"length":1}]}}
+{"timestamp":"2021-04-12 15:07:46","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1},{"index":4,"type":"insert","location":4,"text":"o"},{"index":4,"type":"insert","location":4,"text":"o"},{"index":6,"type":"delete","location":5,"length":1},{"index":6,"type":"delete","location":5,"length":1}]}
+{"timestamp":"2021-04-12 15:07:46","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1},{"index":4,"type":"insert","location":4,"text":"o"},{"index":4,"type":"insert","location":4,"text":"o"},{"index":6,"type":"delete","location":5,"length":1},{"index":6,"type":"delete","location":5,"length":1}]}
+{"timestamp":"2021-04-12 15:07:46","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1},{"index":4,"type":"insert","location":4,"text":"o"},{"index":4,"type":"insert","location":4,"text":"o"},{"index":6,"type":"delete","location":5,"length":1},{"index":6,"type":"delete","location":5,"length":1}]}
+{"timestamp":"2021-04-12 15:07:46","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-12 15:07:50","level":"info","message":"A user sent an operation."}
+{"timestamp":"2021-04-12 15:07:50","level":"info","message":{"type":"insert","index":7,"location":5,"text":"m","docId":"byl5a4kneyvsnw"}}
+{"timestamp":"2021-04-12 15:07:50","level":"info","message":"Emitting new op event."}
+{"timestamp":"2021-04-12 15:07:50","level":"info","message":"A new event has been registered."}
+{"timestamp":"2021-04-12 15:07:50","level":"info","message":"Sending new op."}
+{"timestamp":"2021-04-12 15:07:50","level":"info","message":{"index":8,"type":"insert","location":5,"text":"m"}}
+{"timestamp":"2021-04-12 15:07:50","level":"info","message":"Send Acknowledgement."}
+{"timestamp":"2021-04-12 15:07:55","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 15:07:56","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-12 15:07:56","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-12 15:07:57","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-12 15:07:57","level":"info","message":"byl5a4kneyvsnw"}
+{"timestamp":"2021-04-12 15:07:57","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-12 15:07:57","level":"info","message":{"name":"Document 4","id":"byl5a4kneyvsnw","operations":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1},{"index":4,"type":"insert","location":4,"text":"o"},{"index":4,"type":"insert","location":4,"text":"o"},{"index":6,"type":"delete","location":5,"length":1},{"index":6,"type":"delete","location":5,"length":1},{"index":8,"type":"insert","location":5,"text":"m"},{"index":8,"type":"insert","location":5,"text":"m"}]}}
+{"timestamp":"2021-04-12 15:07:57","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1},{"index":4,"type":"insert","location":4,"text":"o"},{"index":4,"type":"insert","location":4,"text":"o"},{"index":6,"type":"delete","location":5,"length":1},{"index":6,"type":"delete","location":5,"length":1},{"index":8,"type":"insert","location":5,"text":"m"},{"index":8,"type":"insert","location":5,"text":"m"}]}
+{"timestamp":"2021-04-12 15:07:57","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1},{"index":4,"type":"insert","location":4,"text":"o"},{"index":4,"type":"insert","location":4,"text":"o"},{"index":6,"type":"delete","location":5,"length":1},{"index":6,"type":"delete","location":5,"length":1},{"index":8,"type":"insert","location":5,"text":"m"},{"index":8,"type":"insert","location":5,"text":"m"}]}
+{"timestamp":"2021-04-12 15:07:57","level":"info","message":[{"index":0,"type":"insert","location":0,"text":"Hello"},{"index":2,"type":"delete","location":4,"length":1},{"index":2,"type":"delete","location":4,"length":1},{"index":4,"type":"insert","location":4,"text":"o"},{"index":4,"type":"insert","location":4,"text":"o"},{"index":6,"type":"delete","location":5,"length":1},{"index":6,"type":"delete","location":5,"length":1},{"index":8,"type":"insert","location":5,"text":"m"},{"index":8,"type":"insert","location":5,"text":"m"}]}
+{"timestamp":"2021-04-12 15:07:57","level":"info","message":"Sent full document."}

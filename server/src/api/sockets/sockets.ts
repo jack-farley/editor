@@ -1,10 +1,10 @@
 import { Application } from 'express';
 import { Socket } from 'socket.io';
 import { Container } from 'typedi';
-import { EventEmitter } from 'events';
 import { Logger } from 'winston';
 import http from 'http';
 
+import eventEmitter from '../../loaders/events';
 import { DocumentService } from '../../services';
 import { InsertOp, DeleteOp, OpType } from '../../operations';
 
@@ -17,26 +17,32 @@ const sockets = (server : http.Server) => {
 
 
   io.on('connection', (socket: Socket) => {
-    logger.info('A use connected.');
+    logger.info('A user connected.');
 
     let currentDocId : string;
 
     // load document
-    io.on('loadDoc', (data: any) => {
+    socket.on('load-doc', (data: any) => {
       logger.info('A user requested to load a document.');
 
       const docId = data.docId;
       currentDocId = docId;
+      logger.info(docId);
 
       const DocumentServiceInstance = Container.get(DocumentService);
-      const ops = DocumentServiceInstance.loadDoc(docId);
-
-      io.to(socket.id).emit('fullDoc', ops);
+      DocumentServiceInstance.loadDoc(docId).then((ops) => {
+        logger.info(ops);
+        socket.emit('full-doc', ops);
+        logger.info('Sent full document.');
+      }).catch((err) => {
+        logger.error(err);
+      });
     });
 
     // operation event
-    io.on('operation', async (data: any) => {
+    socket.on('operation', (data: any) => {
       logger.info('A user sent an operation.');
+      logger.info(data);
 
       const docId = data.docId;
       const index = data.index;
@@ -49,10 +55,13 @@ const sockets = (server : http.Server) => {
         const op = new InsertOp(index, location, text);
 
         const DocumentServiceInstance = Container.get(DocumentService);
-        const addedOps = await DocumentServiceInstance.pushClientOp(docId, op);
-
-        // send back the ops that were added
-        io.to(socket.id).emit('op-acknowledged');
+        DocumentServiceInstance.pushClientOp(docId, op).then(() => {
+          // send back the ops that were added
+          socket.emit('op-acknowledged');
+          logger.info('Send Acknowledgement.');
+        }).catch((err) => {
+          logger.error(err);
+        });
       }
 
       // delete op
@@ -63,31 +72,39 @@ const sockets = (server : http.Server) => {
         const op = new DeleteOp(index, location, length);
 
         const DocumentServiceInstance = Container.get(DocumentService);
-        const addedOps = await DocumentServiceInstance.pushClientOp(docId, op);
-
-        // send back the ops that were added
-        io.to(socket.id).emit('op-acknowledged');
+        DocumentServiceInstance.pushClientOp(docId, op).then(() => {
+          // send back the ops that were added
+          socket.emit('op-acknowledged');
+          logger.info('Sent Acknowledgement.')
+        }).catch((err) => {
+          logger.error(err);
+        });
       }
 
-      // acknowledge
-      io.to(socket.id).emit('op-denied');
+      else {
+        // acknowledge
+        logger.error('Op Denied');
+        socket.emit('op-denied');
+      }
     });
 
 
 
     // listen for new ops
-    const eventEmitter = new EventEmitter();
 
-    eventEmitter.on('new_op', (data: any) => {
+    eventEmitter.on('new-op', (data: any) => {
       logger.info('A new event has been registered.');
 
       if (data.docId === currentDocId) {
-        io.to(socket.id).emit('new-op', data.op);
+        logger.info('Sending new op.');
+        logger.info(data.op);
+        socket.emit('new-op', data.op);
       }
     });
 
 
     socket.on('disconnect', () => {
+      socket.disconnect();
       logger.info('A user diconnected.');
       eventEmitter.removeAllListeners();
     });
