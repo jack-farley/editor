@@ -1,643 +1,269 @@
-{"timestamp":"2021-04-11 14:28:20","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 14:28:49","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 14:41:09","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 14:42:41","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 14:46:09","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 14:47:15","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 14:47:47","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 14:49:41","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 14:56:17","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 14:56:17","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 14:59:26","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:03:40","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:04:30","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:07:44","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:08:04","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:08:06","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:08:12","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:09:13","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:09:22","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:10:08","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:10:39","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:11:42","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:12:12","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:12:48","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:16:05","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:16:05","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:18:10","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:30:11","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:30:12","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:31:35","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:32:37","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:34:44","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:37:59","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SDre&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:00","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SDx7&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:00","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:01","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SEB9&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:01","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SEBf&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SETd&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:03","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SEpo&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:06","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SFOs&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:06","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SFXu&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:11","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SGdG&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:11","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SGgX&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:16","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SHrr&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:16","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SHuz&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:21","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SJ4W&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:21","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SJ7Q&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SKI-&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SKLs&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:31","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SLXX&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:31","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SLaH&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:36","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SMm2&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:36","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SMom&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:41","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SN-M&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:41","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SO1F&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:46","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SPCn&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:46","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SPFi&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:51","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SQRI&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:51","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SQUD&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SRfo&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:38:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SRie&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:01","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SSuP&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:01","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SSx3&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:06","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SU6s&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:06","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SU9X&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:11","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SVLF&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:11","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SVOC&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:16","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SWZt&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:16","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SWcn&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:21","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SXoJ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:21","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SXrF&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SZ0m&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SZ3t&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:31","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SaF9&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:31","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SaIJ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:36","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SbTW&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:36","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SbWj&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:41","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SciD&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:41","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SclL&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:46","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Sdwj&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:46","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Sdzt&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:51","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Sf9K&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:51","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SfCF&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SgNs&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:39:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SgQf&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:01","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ShcI&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:01","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Shf5&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:06","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Siqo&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:07","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SitR&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:11","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Sk39&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:12","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Sk5p&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:16","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SlHi&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:17","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SlK7&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:21","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SmW7&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:22","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SmYh&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Snkc&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:27","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Snn2&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:31","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Soyt&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2So_Y&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:36","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SqBG&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:37","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SqDv&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:41","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SrPb&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:42","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SrSH&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:47","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SseE&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:47","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ssgt&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:52","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Stsq&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:52","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2StvO&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:57","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Sv5k&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:40:57","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Sv7v&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SwKG&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SwME&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:07","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2SxYg&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:07","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Sxad&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:12","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Syn2&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:12","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Syo_&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:17","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Sz_S&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:17","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2S-1O&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:22","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2S_E0&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:22","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2S_Fn&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:27","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T0SZ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:27","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T0UF&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T1gy&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T1ie&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:37","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T2vT&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:37","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T2ww&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:42","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T481&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:42","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T49U&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:47","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T5MQ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:47","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T5Ns&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:52","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T6b0&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:52","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T6cF&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:57","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T7pW&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:41:57","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T7qj&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T920&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T93E&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:07","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TAGS&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:07","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TAHf&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:12","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TBUp&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:12","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TBW0&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:17","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TCjF&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:17","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TCkT&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:22","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TDxe&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:22","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TDyq&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:27","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TFAB&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:27","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TFB9&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TGOY&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TGPU&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:37","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2THdn&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:37","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2THdr&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:42","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TIsP&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:42","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TIsf&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:47","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TK4m&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:47","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TK5F&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:52","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TLJG&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:52","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TLJq&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:57","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TMXn&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:42:57","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TMYP&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TNmI&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TNml&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:07","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TO-v&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:07","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TO_P&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:12","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TQDE&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:12","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TQDs&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:17","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TRRk&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:17","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TRS9&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:22","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TSgG&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:22","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TSgl&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:27","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TTuj&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:27","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TTvD&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TV79&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TV7o&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:37","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TWLW&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:37","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TWMF&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:42","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TXZy&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:42","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TXap&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:47","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TYoT&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:47","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TYpQ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:52","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ta14&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:52","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ta1_&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:57","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TbFT&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:43:58","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TbGm&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TcU1&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:03","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TcVN&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:07","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tdie&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tdjo&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:13","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tex3&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:13","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TeyH&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:18","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tg9Q&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:18","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TgAg&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:23","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ThO0&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:23","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ThPB&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:28","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ticc&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:28","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tids&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:33","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tjr6&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:33","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TjsI&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tl3S&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tl4h&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:43","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TmHg&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:43","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TmJ8&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:48","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TnWC&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:48","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TnXf&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:53","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Toka&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:53","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tom0&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:58","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tpys&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:44:58","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tp-S&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:03","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TrBV&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:03","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TrD3&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TsQ2&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TsRV&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:13","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ttec&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:13","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ttfr&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:18","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tut7&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:18","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TuuM&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:23","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tw5c&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:23","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tw6q&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:28","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TxJ_&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:28","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TxLG&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:33","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TyYT&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:33","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TyZh&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Tzmy&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2TzoB&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:43","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T-_P&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:43","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2T_0d&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:48","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U0D-&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:48","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U0FD&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:53","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U1SJ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:53","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U1TY&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:54","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:58","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U2gt&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:45:58","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U2ht&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:03","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U3vD&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:03","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U3w6&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U57a&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U58a&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:13","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U6MC&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:13","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U6Mz&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:18","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U7ak&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:18","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U7bT&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:23","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U8p4&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:23","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U8pr&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:28","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UA1S&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:28","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UA2C&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:33","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UBGC&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:33","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UBGi&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UCUd&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UCVE&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:43","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UDj0&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:43","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UDjm&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:48","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UExP&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:48","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UEy9&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:52","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:53","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UG9u&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:53","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UGAO&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:58","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UHOQ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:46:58","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UHOg&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:03","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UIcn&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:03","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UId6&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UJrI&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UJrX&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:13","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UL3i&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:13","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UL3y&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:18","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UMIH&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:18","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UMIW&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:23","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UNWh&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:23","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UNW_&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:28","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UOl2&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:28","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UOlW&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:33","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UPzU&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:33","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UPzz&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2URBo&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2URCX&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:43","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2USQO&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:43","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2USR3&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:48","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UTem&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:48","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UTfX&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:53","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UUtJ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:53","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UUty&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:58","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UW5h&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:47:59","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UW6R&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:03","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UXK1&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:04","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UXKn&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UYYS&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:09","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UYZD&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UZm_&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UZnl&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:19","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ua_V&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:19","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ub08&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:24","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UcDy&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:24","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UcEV&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:29","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UdSH&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:29","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UdS_&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:34","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Uegu&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:34","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Uehr&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:39","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UfvR&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:39","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ufz5&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Uh7q&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UhBU&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:49","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UiMC&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:49","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UiPy&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:54","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ujaf&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:54","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UjeT&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:59","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ukoz&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:48:59","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Uksy&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:04","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Um1L&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:04","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Um5V&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:09","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UnFu&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:09","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UnJy&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UoUE&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UoYQ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:19","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Upia&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:19","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Upmz&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:24","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UqxB&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:24","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Uq_Y&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:29","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Us9b&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:29","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UsE0&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:34","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UtO4&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:34","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UtSQ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:39","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UucU&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:39","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Uugu&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Uvqo&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UvvF&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:49","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ux3I&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:49","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ux7h&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:54","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UyHz&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:54","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UyMD&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:59","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2UzWV&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:49:59","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Uzan&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:04","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U-k_&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:04","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U-pN&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:09","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2U_zR&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:09","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V01s&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V1Bt&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V1GS&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:19","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V2QF&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:19","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V2Ur&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:24","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V3eh&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:24","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V3jH&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:29","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V4t3&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:29","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V4xm&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:34","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V65U&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:34","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V6AC&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:35","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:39","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V7Jp&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:39","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V7Oy&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V8YL&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V8dL&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:49","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V9mi&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:49","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V9rn&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:54","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VA_3&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:54","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VB4E&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:50:56","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:51:00","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VCIo&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:51:05","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VDXI&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:51:10","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VElY&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:51:15","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VF-0&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:51:20","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VHCW&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:51:25","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VIR9&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:51:30","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VJfc&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:51:35","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VKuC&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:51:40","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VM6b&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:51:45","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VNL2&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:51:50","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VOZR&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:51:55","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VPo5&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:52:00","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VR0O&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:52:05","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VSEz&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:52:10","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VTTU&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:52:15","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VUhx&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:52:20","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VVwT&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:52:25","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VX8u&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:52:30","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VYNK&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:52:35","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VZbp&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:52:40","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Vaq6&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:52:45","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Vc2f&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:52:50","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VdH4&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:52:55","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VeVP&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:52:55","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:53:00","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Vfk1&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:53:05","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Vgyc&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:53:10","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ViB1&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:53:15","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VjPS&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:53:20","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Vkdy&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:53:25","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Vlsg&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:53:30","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Vn5A&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:53:35","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VoJq&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:53:40","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VpYD&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:53:45","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Vqmk&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:53:50","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Vr_L&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:53:55","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VtDw&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:54:00","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VuSN&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:54:05","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Vvgu&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:54:10","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VwvD&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:54:15","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Vy7a&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:54:20","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2VzM2&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:54:25","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V-aa&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:54:30","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2V_p4&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:54:36","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2W11f&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:54:41","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2W2G2&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:54:46","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2W3VH&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:54:51","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2W4n0&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:54:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2W5_d&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:55:01","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2W7E3&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:55:06","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2W8SW&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:55:11","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2W9gz&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:55:16","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WAvY&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:55:21","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WC82&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:55:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WDMP&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:55:31","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WEaw&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:55:36","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WFpH&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:55:41","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WH1p&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:55:46","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WIGJ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:55:51","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WJUl&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:55:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WKj1&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:56:01","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WLxT&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:56:06","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WN9u&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:56:11","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WOOf&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:56:16","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WPdF&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:56:21","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WQro&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:56:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WS4H&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:56:31","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WTIi&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:56:36","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WUX2&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:56:41","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WVlS&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:56:46","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WWz-&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:56:51","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WYCN&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:56:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WZQr&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:57:01","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WafE&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:57:06","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Wbtf&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:57:11","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Wd5-&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:57:16","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WeKX&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:57:21","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WfZ5&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:57:27","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Wgnc&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:57:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Wi0N&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:57:37","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WjEj&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:57:42","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WkTJ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:57:47","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Wlhu&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:57:52","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Wmwf&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:57:57","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Wo93&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:58:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WpNV&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:58:07","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Wqbl&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:58:12","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WrqB&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:58:17","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Wt3Q&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:58:22","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WuHm&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:58:27","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WvW8&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:58:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WwkX&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:58:37","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Wxz2&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:58:42","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2WzBd&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:58:47","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2W-Pz&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:58:52","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2W_eY&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:58:57","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2X0t3&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:59:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2X25R&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:59:07","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2X3Ji&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:59:12","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2X4YB&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:59:17","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2X5mk&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:59:22","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2X6_M&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:59:27","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2X8Dl&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:59:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2X9SD&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:59:37","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XAgU&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:59:42","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XBv3&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:59:47","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XD7V&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:59:52","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XEM4&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 15:59:57","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XFai&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:00:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XGp4&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:00:07","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XI1V&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:00:12","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XJF_&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:00:17","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XKUP&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:00:22","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XLio&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:00:27","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XMxJ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:00:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XO9j&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:00:37","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XPO8&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:00:42","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XQcV&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:00:47","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XRr3&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:00:52","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XT3V&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:00:57","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XUHx&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:01:03","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XVWW&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:01:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XWkp&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:01:13","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XXzG&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:01:18","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XZBs&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:01:23","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XaQH&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:01:28","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Xbej&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:01:33","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XctH&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:01:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Xe5v&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:01:43","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XfKS&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:01:48","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XgYw&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:01:53","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XhnY&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:01:58","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Xj03&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:02:03","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XkEU&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:02:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XlSw&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:02:13","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XmhO&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:02:18","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Xnvu&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:02:23","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Xp8O&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:02:28","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XqMs&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:02:33","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XrbD&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:02:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Xspe&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:02:43","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Xu2A&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:02:48","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XvGj&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:02:53","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XwV2&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:02:58","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Xxjr&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:03:03","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2XyyL&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:03:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2X-Ap&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:03:13","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2X_PO&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:03:18","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Y0dx&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:03:23","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Y1sH&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:03:28","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Y34q&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:03:33","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Y4JI&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:03:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Y5Xs&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:03:43","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Y6mJ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:03:48","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Y7_3&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:03:53","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Y9DV&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:03:58","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YAR-&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:04:03","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YBgO&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:04:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YCur&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:04:13","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YE78&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:04:18","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YFMd&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:04:24","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YGbC&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:04:29","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YHpl&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:04:34","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YJ2B&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:04:39","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YKGn&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:04:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YLVH&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:04:49","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YMjq&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:04:54","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YNyM&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:04:59","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YPAq&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:05:04","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YQP9&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:05:09","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YRdY&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:05:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YSrz&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:05:19","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YU4P&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:05:24","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YVIq&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:05:29","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YWXB&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:05:34","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YXlh&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:05:39","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YY-3&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:05:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YaCb&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:05:49","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YbR1&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:05:54","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YcfZ&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:05:59","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ydu1&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:06:04","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Yf6Z&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:06:09","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YgLB&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:06:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YhZe&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:06:19","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Yio2&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:06:24","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Yk0K&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:06:29","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YlEy&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:06:34","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YmTS&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:06:39","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ynhw&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:06:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YowM&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:06:49","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Yq8p&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:06:54","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YrNL&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:06:59","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ysbp&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:07:04","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Ytq6&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:07:09","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Yv2U&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:07:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YwGz&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:07:19","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2YxVU&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:07:24","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Yyjz&b64=1 - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:07:34","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:07:41","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:08:10","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:10:09","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:10:31","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:10:31","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZgKM - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:10:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Zgbb - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:10:34","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZgyB - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:10:36","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZhcW - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:10:41","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZirF - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:10:42","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
-{"timestamp":"2021-04-11 16:10:43","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZjCh - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:10:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZjO6 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:10:45","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Zjh2 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:10:50","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Zkvq - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:10:55","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Zm94 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:11:00","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZnJm - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:11:01","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZndY - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:11:04","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZoNk - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:11:09","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZpcE - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:11:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZqrK - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:11:19","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Zs4C - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:11:24","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZtJ9 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:11:29","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZuY8 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:11:34","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZvnE - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:11:39","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Zx0N - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:11:45","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZyFJ - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:11:50","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ZzV9 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:11:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2Z-y_ - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:12:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2a0Qn - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:12:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2a1uS - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:12:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2a3M5 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:12:20","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2a4ps - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:12:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2a6Ha - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:12:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2a7lY - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:12:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2a9DH - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:12:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aAgt - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:12:50","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aC8j - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:12:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aDcY - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:13:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aF47 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:13:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aGXp - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:13:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aH_h - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:13:20","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aJTa - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:13:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aKxH - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:13:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aMP1 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:13:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aNsd - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:13:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aPKL - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:13:50","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aQo8 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:13:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aSFp - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:14:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aTjm - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:14:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aVBM - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:14:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aWfN - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:14:20","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aY6y - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:14:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aZaa - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:14:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ab2P - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:14:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2acW9 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:14:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2adzq - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:14:50","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2afRe - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:14:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2agvf - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:15:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aiNE - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:15:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ajqs - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:15:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2alIk - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:15:20","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ammK - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:15:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aoEO - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:15:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2aphr - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:15:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ar9i - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:15:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2asdT - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:15:50","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2au52 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:15:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2avY- - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:16:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ax0Y - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:16:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2ayUI - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:16:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2azyD - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:16:20","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2a_Py - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:16:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2b0tY - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:16:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2b2LZ - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:16:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2b3pA - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:16:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2b5Gz - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:16:50","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2b6km - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:16:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2b8CM - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:17:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2b9g5 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:17:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bB7z - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:17:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bCba - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:17:20","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bE3L - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:17:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bFX6 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:17:32","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bG-x - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:17:38","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bISc - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:17:44","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bJwG - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:17:50","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bLOs - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:17:56","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bMrj - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:18:02","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bOJU - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:18:08","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bPnL - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:18:14","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bRF7 - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:18:20","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bSir - GET - [object Object] - ::1"}
-{"timestamp":"2021-04-11 16:18:26","level":"http","message":"/socket.io/?EIO=4&transport=polling&t=NZ2bUAc - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-11 18:05:05","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-11 18:05:05","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-11 18:05:06","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-11 18:05:33","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:05:39","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:05:45","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:05:47","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-11 18:05:50","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-11 18:05:51","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:05:51","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-11 18:05:54","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-11 18:05:55","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:06:00","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:06:05","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:06:11","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:06:14","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:08:50","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-11 18:08:50","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-11 18:08:50","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-11 18:08:54","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:08:54","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:08:55","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:09:02","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:09:03","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:09:25","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-11 18:09:26","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-11 18:09:29","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-11 18:09:31","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:09:34","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:09:34","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:10:35","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:10:35","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:10:39","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:10:40","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:10:40","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:11:30","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:11:30","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:11:32","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:11:32","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:11:33","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:12:35","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:12:35","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:12:35","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:12:35","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:12:36","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:13:57","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:13:58","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:13:58","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:13:58","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:13:59","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:17:51","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:17:51","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:17:52","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:17:52","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:17:53","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:18:15","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:18:15","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:18:15","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:18:16","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:18:17","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:22:31","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:22:31","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:22:32","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:22:32","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:22:33","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:22:50","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:22:50","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:22:51","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:22:51","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:22:52","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:23:48","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:23:48","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:23:48","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:23:48","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:23:49","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:27:50","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:27:50","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:27:51","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:27:51","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:27:52","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:33:04","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:33:04","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:33:05","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:33:05","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:33:06","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:33:54","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:33:54","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:34:02","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:34:02","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:34:09","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:34:09","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:34:15","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:34:15","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:34:17","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:34:18","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:34:19","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:34:56","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:34:56","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:34:58","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:34:58","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:34:59","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:35:19","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:35:46","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:35:48","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:35:48","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:35:49","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:37:57","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:37:57","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:37:57","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:37:57","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:37:58","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:50:12","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-11 18:50:12","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-11 18:50:12","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-11 18:50:17","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 18:50:37","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 18:50:38","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 18:50:45","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 19:01:43","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-11 19:01:54","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-11 19:01:56","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-11 19:04:23","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 19:04:27","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 19:13:37","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 19:13:38","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 19:14:21","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 19:14:21","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 19:14:28","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 19:14:28","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 19:14:28","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 19:14:28","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 19:14:29","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 19:15:57","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 19:15:57","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 19:15:59","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 19:16:00","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 19:16:01","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 19:16:08","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 19:16:08","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 19:16:19","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 19:16:19","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 19:16:21","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 19:16:22","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 19:16:23","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 19:16:32","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 19:16:32","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 19:20:27","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 19:20:27","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 19:20:29","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 19:20:29","level":"http","message":"/documents - GET - [object Object] - ::ffff:127.0.0.1"}
+{"timestamp":"2021-04-11 19:20:30","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:07:55","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-11 20:07:55","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-11 20:07:56","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-11 20:12:36","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-11 20:12:39","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-11 20:12:40","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-11 20:21:08","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-11 20:21:11","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:21:52","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:21:52","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:23:39","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:23:39","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:26:09","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:26:09","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:27:57","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:28:08","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-11 20:28:13","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:29:02","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:29:02","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:29:15","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:29:16","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:29:31","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:29:31","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:29:40","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:29:40","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:29:46","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:29:46","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:31:46","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:31:46","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:32:02","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:32:02","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:32:39","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:32:39","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:32:46","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:32:46","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:34:31","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:34:31","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:34:32","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:34:32","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:34:56","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:34:56","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:34:57","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:34:57","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:35:06","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:35:06","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:35:08","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:35:08","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:35:30","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:35:30","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:35:32","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:35:32","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:36:55","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:36:55","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:37:38","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:37:38","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:38:37","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:38:37","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:38:44","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:38:45","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:38:49","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:38:50","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:39:48","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:39:48","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:39:55","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:39:55","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:40:57","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:40:57","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:41:31","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:41:31","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:42:01","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:42:01","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:42:15","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:42:15","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:42:57","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:42:57","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:43:11","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:43:11","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:43:41","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:43:41","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:43:44","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:43:44","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:44:03","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:44:03","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:44:11","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:44:11","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:45:15","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:45:15","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:45:37","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:45:39","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:45:39","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:45:39","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:46:29","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:46:29","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:46:33","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:46:33","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:47:05","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:47:05","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:47:09","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:47:09","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:47:49","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:47:49","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:48:01","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:48:02","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:48:46","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:48:47","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:50:18","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:50:18","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:50:32","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:50:32","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:50:34","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:50:35","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:52:48","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:52:48","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:52:49","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:52:50","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:56:38","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 20:56:38","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 20:57:42","level":"info","message":"A user diconnected."}

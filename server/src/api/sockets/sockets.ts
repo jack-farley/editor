@@ -3,17 +3,17 @@ import { Socket } from 'socket.io';
 import { Container } from 'typedi';
 import { EventEmitter } from 'events';
 import { Logger } from 'winston';
+import http from 'http';
 
 import { DocumentService } from '../../services';
 import { InsertOp, DeleteOp, OpType } from '../../operations';
 
 
-const sockets = (app : Application) => {
+const sockets = (server : http.Server) => {
 
   const logger : Logger = Container.get('logger');
 
-  const http = require('http').Server(app);
-  const io = require('socket.io')(http);
+  const io = require('socket.io')(server);
 
 
   io.on('connection', (socket: Socket) => {
@@ -89,6 +89,7 @@ const sockets = (app : Application) => {
 
     socket.on('disconnect', () => {
       logger.info('A user diconnected.');
+      eventEmitter.removeAllListeners();
     });
   });
 }
