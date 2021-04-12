@@ -46,13 +46,13 @@ class Document {
   }
 
   private UpdateText(text: string, ops: Operation[]) {
-    let res = "";
+    let res = text;
 
     for (const op of ops) {
 
       if (op instanceof InsertOp) {
         const firstSection = res.slice(0, op.location);
-        const secondSection = res.slice(op.location + op.text.length, res.length);
+        const secondSection = res.slice(op.location, res.length);
         res = firstSection + op.text + secondSection;
         continue;
       }

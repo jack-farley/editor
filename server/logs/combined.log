@@ -267,3 +267,37 @@
 {"timestamp":"2021-04-11 20:56:38","level":"info","message":"A user diconnected."}
 {"timestamp":"2021-04-11 20:56:38","level":"info","message":"A use connected."}
 {"timestamp":"2021-04-11 20:57:42","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 23:33:53","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-11 23:33:53","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-11 23:33:54","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-11 23:34:19","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-11 23:34:22","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-11 23:34:23","level":"http","message":"/documents/ - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-11 23:34:26","level":"http","message":"/documents/ - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-11 23:35:34","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-11 23:35:37","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 23:37:35","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 23:37:35","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 23:37:56","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 23:37:57","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 23:39:32","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 23:39:32","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 23:39:34","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 23:39:34","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 23:47:18","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 23:47:18","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-11 23:47:20","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-11 23:47:20","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-12 00:01:06","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 00:01:06","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-12 00:01:27","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 00:01:27","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-12 00:02:11","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 00:02:11","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-12 00:03:21","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 00:03:21","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-12 00:03:39","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 00:03:39","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-12 00:03:42","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-12 00:03:43","level":"info","message":"A use connected."}
+{"timestamp":"2021-04-12 00:03:55","level":"info","message":"A user diconnected."}

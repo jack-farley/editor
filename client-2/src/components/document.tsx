@@ -96,9 +96,8 @@ export default function DocumentView () {
 
   // local change
   const localChange = (newText : string) => {
-    console.log('Local Change');
+    console.log("Local change.");
     const newOps = GetChanges(text, newText);
-    console.log(newOps);
     for (const op of newOps) {
       document.addLocalOp(op);
     }
@@ -112,8 +111,6 @@ export default function DocumentView () {
       <form>
         <TextArea value={text} onChange={v => localChange(v)} />
       </form>
-
-      <h1>Bottom</h1>
     </div>
   )
 }
