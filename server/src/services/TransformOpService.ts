@@ -65,8 +65,15 @@ export default class TransformOpService {
     // is not deleted
     else if (op1.location < op2.location + op2.length) {
       const newOp2Len = op1.location - op2.location;
-      res.push(new DeleteOp(op2.index + 1, op1.location + op1.text.length,
-        op2.length - newOp2Len));
+
+      const del = new DeleteOp(op2.from, op2.index + 1,
+        op1.location + op1.text.length, op2.length - newOp2Len, false);
+      if (op2.lastInGroup) {
+        op2.lastInGroup = false;
+        del.lastInGroup = true;
+      }
+
+      res.push(del);
 
       op2.length = newOp2Len;
     }

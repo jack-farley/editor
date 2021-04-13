@@ -31,7 +31,7 @@ export default class DocumentService {
     const doc = fs.createDocument(name);
 
     if (startingText.length > 0) {
-      this.addOp(doc.id, new InsertOp(0, 0, startingText));
+      this.addOp(doc.id, new InsertOp("", 0, 0, startingText, true));
     }
 
     return doc.id;

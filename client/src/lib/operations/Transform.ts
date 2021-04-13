@@ -53,7 +53,7 @@ const insertDelete = (op1 : InsertOp, op2: DeleteOp) => {
   // is not deleted
   else if (op1.location < op2.location + op2.length) {
     const newOp2Len = op1.location - op2.location;
-    res.push(new DeleteOp(op1.location + op1.text.length, op2.length - newOp2Len));
+    res.push(new DeleteOp(op1.location + op1.text.length, op2.length - newOp2Len, false, true));
 
     op2.length = newOp2Len;
   }

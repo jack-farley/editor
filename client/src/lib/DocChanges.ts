@@ -29,17 +29,17 @@ const getChanges = (string1 : string, string2 : string) => {
 
   // insert
   else if (start1 > end1) {
-    return [new InsertOp(start1, string2.slice(start2, end2 + 1))];
+    return [new InsertOp(start1, string2.slice(start2, end2 + 1), false, true)];
   }
 
   // delete
   else if (start2 > end2) {
-    return [new DeleteOp(start1, end1 - start1 + 1)];
+    return [new DeleteOp(start1, end1 - start1 + 1, false, true)];
   }
 
   else {
-    return [new DeleteOp(start1, end1 - start1 + 1),
-    new InsertOp(start2, string2.slice(start2, end2 + 1))];
+    return [new DeleteOp(start1, end1 - start1 + 1, false, true),
+    new InsertOp(start2, string2.slice(start2, end2 + 1), false, true)];
   }
 }
 

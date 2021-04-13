@@ -6,8 +6,9 @@ class InsertOp extends Operation {
   location: number;
   text: string;
 
-  constructor(index: number, location: number, text: string) {
-      super(index);
+  constructor(from: string, index: number, location: number, text: string,
+    lastInGroup: boolean) {
+      super(from, index, lastInGroup);
       this.location = location;
       this.text = text;
   }
@@ -15,6 +16,8 @@ class InsertOp extends Operation {
   toJSON () {
     return {
       index: this.index,
+      from: this.from,
+      last: this.lastInGroup,
       type: OpType.InsertOp,
       location: this.location,
       text: this.text,

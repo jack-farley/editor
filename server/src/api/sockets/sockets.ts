@@ -52,12 +52,12 @@ const sockets = (server : http.Server) => {
         const location = data.location;
         const text = data.text;
 
-        const op = new InsertOp(index, location, text);
+        const op = new InsertOp(socket.id, index, location, text, true);
 
         const DocumentServiceInstance = Container.get(DocumentService);
-        DocumentServiceInstance.pushClientOp(docId, op).then(() => {
+        DocumentServiceInstance.pushClientOp(docId, op).then((ops) => {
           // send back the ops that were added
-          socket.emit('op-acknowledged');
+          socket.emit('op-acknowledged', ops);
           logger.info('Send Acknowledgement.');
         }).catch((err) => {
           logger.error(err);
@@ -69,12 +69,12 @@ const sockets = (server : http.Server) => {
         const location = data.location;
         const length = data.length;
 
-        const op = new DeleteOp(index, location, length);
+        const op = new DeleteOp(socket.id, index, location, length, true);
 
         const DocumentServiceInstance = Container.get(DocumentService);
-        DocumentServiceInstance.pushClientOp(docId, op).then(() => {
+        DocumentServiceInstance.pushClientOp(docId, op).then((ops) => {
           // send back the ops that were added
-          socket.emit('op-acknowledged');
+          socket.emit('op-acknowledged', ops);
           logger.info('Sent Acknowledgement.')
         }).catch((err) => {
           logger.error(err);

@@ -12,8 +12,9 @@ class DeleteOp extends Operation {
   // EXAMPLE: If we have a string abcdefghi, del(2, 4) would remove
   // the characters cdef.
 
-  constructor(index: number, location: number, length: number) {
-      super(index);
+  constructor(from: string, index: number, location: number, length: number,
+    lastInGroup: boolean) {
+      super(from, index, lastInGroup);
       this.location = location;
       this.length = length;
   }
@@ -21,6 +22,8 @@ class DeleteOp extends Operation {
   toJSON () {
     return {
       index: this.index,
+      from: this.from,
+      last: this.lastInGroup,
       type: OpType.DeleteOp,
       location: this.location,
       length: this.length,

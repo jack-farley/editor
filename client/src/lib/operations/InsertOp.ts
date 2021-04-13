@@ -6,8 +6,9 @@ class InsertOp extends Operation {
   location: number;
   text: string;
 
-  constructor(location: number, text: string) {
-    super();
+  constructor(location: number, text: string, confirmedFromLocal: boolean, 
+    lastInGroup: boolean) {
+    super(confirmedFromLocal, lastInGroup);
     this.location = location;
     this.text = text;
   }

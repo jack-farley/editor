@@ -36,7 +36,6 @@ export default function DocumentView () {
   useEffect(() => {
     // control textarea
     const updateTextArea = () => {
-      console.log('Control Text Area');
       setText(document.localText);
     }
 
@@ -57,17 +56,14 @@ export default function DocumentView () {
     // load a document
     const loadDoc = (ops : any) => {
       console.log('Received loaded document.');
-      console.log(ops);
       const opList = [];
       for (const op of ops) {
-        opList.push(CreateOp(op));
+        opList.push(CreateOp(op, socket.id));
       }
-      console.log(opList);
       setDocument(new Document(opList));
     }
 
     socket.on('full-doc', loadDoc);
-    console.log('Full doc listener set up.');
     // disconnect
     return () => {
       socket.off('full-doc', loadDoc);
@@ -77,9 +73,9 @@ export default function DocumentView () {
 
   // socket connection for op acknowledgements
   useEffect(() => {
-    const opAcknowledged = () => {
-      console.log('Op Acknowledged.');
-      setWaiting(false);
+    const opAcknowledged = (ops : any) => {
+      console.log('Local op acknowledged.');
+      if (!document.hasPending()) setWaiting(false);
     }
 
     socket.on('op-acknowledged', opAcknowledged);
@@ -97,10 +93,12 @@ export default function DocumentView () {
     // register confirmed op
     const registerConfirmed = (op : any) => {
       console.log('Register confirmed');
-      const operation = CreateOp(op);
-      document.addConfirmedOp(operation, op.index);
+      const operation = CreateOp(op, socket.id);
+      document.pushConfirmedOp(operation, op.index);
+      
       setTextAreaChange(true);
       setLocalOps(document.localOps.length);
+      if (!document.hasPending()) setWaiting(false);
     }
 
     socket.on('new-op', registerConfirmed);
@@ -126,12 +124,8 @@ export default function DocumentView () {
         const opInfo : any = document.pullLocalOp();
         opInfo.docId = docId;
 
-        console.log(socket);
-
         // send the op
         socket.emit('operation', opInfo);
-        console.log('Local operation sent.');
-        console.log(socket);
 
         setLocalOps(document.localOps.length);
       }
