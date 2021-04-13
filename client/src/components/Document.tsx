@@ -84,7 +84,7 @@ export default function DocumentView () {
     return () => {
       socket.off('op-acknowledged', opAcknowledged);
     }
-  }, [socket]);
+  }, [socket, document]);
 
 
   // socket connection for receiving a confirmed op

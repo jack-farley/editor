@@ -8,7 +8,6 @@ export async function getDocIds() {
     console.log('Loading document ids.');
     const response = await axios.get<string[]>(url + '/documents');
     const docIds = response.data;
-    console.log('Done loading document Ids.');
 
     return docIds;
 
@@ -19,5 +18,17 @@ export async function getDocIds() {
 }
 
 export async function createDocument(name: string, content: string) {
+  try {
+    console.log('Creating document.');
+    const response = await axios.post<string>(url + '/documents', {
+        name: name,
+        conent: content,
+      });
+    const docId = response.data;
 
+    return docId;
+
+  } catch (err) {
+    console.error(err);
+  }
 }

@@ -67,7 +67,6 @@ export default class DocumentService {
   }
 
   private getOps (docId: string) {
-    logger.info(fs.getDocument(docId));
     return fs.getDocument(docId).operations;
   }
 
@@ -94,7 +93,6 @@ export default class DocumentService {
 
 
     // notify listeners of the operation
-    logger.info('Emitting new op event.');
     eventEmitter.emit('new-op', {docId, op});
   }
 
@@ -116,7 +114,6 @@ export default class DocumentService {
       const numOps = this.getNumOps(docId);
       if (currentOp.index >= numOps) {
         currentOp.index = numOps;
-        this.addOp(docId, currentOp);
         addedOps.push(op);
       }
 
@@ -140,9 +137,7 @@ export default class DocumentService {
   public async loadDoc(docId : string) {
     logger.info('Loading document in service');
     const ops = this.getOps(docId);
-    logger.info(ops);
     const res = ops.map((op) => {return op.toJSON()});
-    logger.info(res);
     return res;
   }
 }

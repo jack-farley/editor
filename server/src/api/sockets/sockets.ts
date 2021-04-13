@@ -27,11 +27,9 @@ const sockets = (server : http.Server) => {
 
       const docId = data.docId;
       currentDocId = docId;
-      logger.info(docId);
 
       const DocumentServiceInstance = Container.get(DocumentService);
       DocumentServiceInstance.loadDoc(docId).then((ops) => {
-        logger.info(ops);
         socket.emit('full-doc', ops);
         logger.info('Sent full document.');
       }).catch((err) => {
@@ -41,8 +39,6 @@ const sockets = (server : http.Server) => {
 
     // operation event
     socket.on('operation', (data: any) => {
-      logger.info('A user sent an operation.');
-      logger.info(data);
 
       const docId = data.docId;
       const index = data.index;
@@ -58,7 +54,6 @@ const sockets = (server : http.Server) => {
         DocumentServiceInstance.pushClientOp(docId, op).then((ops) => {
           // send back the ops that were added
           socket.emit('op-acknowledged', ops);
-          logger.info('Send Acknowledgement.');
         }).catch((err) => {
           logger.error(err);
         });
@@ -75,7 +70,6 @@ const sockets = (server : http.Server) => {
         DocumentServiceInstance.pushClientOp(docId, op).then((ops) => {
           // send back the ops that were added
           socket.emit('op-acknowledged', ops);
-          logger.info('Sent Acknowledgement.')
         }).catch((err) => {
           logger.error(err);
         });
@@ -93,11 +87,8 @@ const sockets = (server : http.Server) => {
     // listen for new ops
 
     eventEmitter.on('new-op', (data: any) => {
-      logger.info('A new event has been registered.');
 
       if (data.docId === currentDocId) {
-        logger.info('Sending new op.');
-        logger.info(data.op);
         socket.emit('new-op', data.op);
       }
     });
