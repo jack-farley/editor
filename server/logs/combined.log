@@ -50,3 +50,112 @@
 {"timestamp":"2021-04-13 13:45:06","level":"info","message":"Loading document in service"}
 {"timestamp":"2021-04-13 13:45:06","level":"info","message":"Sent full document."}
 {"timestamp":"2021-04-13 13:45:07","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-19 13:40:20","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-19 13:40:20","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-19 13:40:20","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-19 13:40:23","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 13:40:26","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-19 13:40:26","level":"http","message":"/documents - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-19 13:40:28","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-19 13:40:29","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-19 13:40:29","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 13:40:32","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 13:40:32","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 13:40:32","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:42:12","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-19 14:42:12","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-19 14:42:13","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-19 14:42:17","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-19 14:42:17","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 14:42:32","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-19 14:42:32","level":"http","message":"/documents - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-19 14:42:34","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-19 14:42:35","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-19 14:42:35","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 14:42:35","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:42:35","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:42:35","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:43:01","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:43:01","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:43:01","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:43:03","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-19 14:43:03","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 14:43:03","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:43:03","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:43:03","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:43:25","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:43:25","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:43:25","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:43:52","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-19 14:43:53","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 14:43:53","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:43:53","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:43:53","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:45:04","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:45:04","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:45:04","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:45:08","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-19 14:45:09","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 14:45:09","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:45:09","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:45:09","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:45:16","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-19 14:45:16","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 14:45:16","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:45:16","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:45:16","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:46:56","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:46:56","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:46:56","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:46:59","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-19 14:47:00","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 14:47:00","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:47:00","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:47:00","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:48:56","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:48:56","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:48:56","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:48:58","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-19 14:48:58","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 14:48:58","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:48:58","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:48:58","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:50:02","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:50:02","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:50:02","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:50:03","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-19 14:50:03","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 14:50:03","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:50:03","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:50:03","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:54:47","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:54:47","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:54:47","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:54:49","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-19 14:54:49","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 14:54:49","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:54:49","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:54:49","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 14:55:03","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 14:55:03","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 14:55:03","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 15:09:34","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 15:09:34","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 15:09:34","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 15:09:40","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 15:09:40","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 15:09:40","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 15:09:43","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-19 15:09:44","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 15:09:44","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 15:09:44","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 15:09:44","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 15:10:01","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 15:10:01","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 15:10:01","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 15:10:03","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-19 15:10:03","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-19 15:10:03","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-19 15:10:03","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-19 15:10:03","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-19 15:10:17","level":"info","message":"A user diconnected."}

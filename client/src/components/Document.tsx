@@ -1,10 +1,9 @@
-import React, { useState, useEffect, useContext } from 'react';
+import React, { useState, useEffect, useContext, useRef } from 'react';
 import { Socket } from 'socket.io-client';
-import { TextArea } from '@thumbtack/thumbprint-react';
 import { useParams } from 'react-router-dom';
 
 import { SocketContext } from '../context/socket';
-import { Document, CreateOp, GetChanges } from '../lib';
+import { Document, CreateOp, GetChanges, MoveCursor } from '../lib';
 
 
 export default function DocumentView () {
@@ -14,7 +13,9 @@ export default function DocumentView () {
 
   const socket : Socket = useContext(SocketContext);
 
-  const [document, setDocument] = useState(new Document([]));
+  const textareaRef = useRef<HTMLTextAreaElement>(null);
+
+  const [doc, setDoc] = useState(new Document([]));
   const [text, setText] = useState("");
   const [waiting, setWaiting] = useState(false);
   const [localOps, setLocalOps] = useState(0);
@@ -26,41 +27,55 @@ export default function DocumentView () {
     console.log("Local change.");
     const newOps = GetChanges(text, newText);
     for (const op of newOps) {
-      document.addLocalOp(op);
+      doc.addLocalOp(op);
     }
     setTextAreaChange(true);
-    setLocalOps(document.localOps.length);
+    setLocalOps(doc.localOps.length);
   }
 
   // update the text area
   useEffect(() => {
-    // control textarea
-    const updateTextArea = () => {
-      setText(document.localText);
+
+    if (textareaRef.current) {
+      const startSel = textareaRef.current.selectionStart;
+      const endSel = textareaRef.current.selectionEnd;
+
+      const oldText = text;
+      const newText = doc.localText;
+
+      setText(doc.localText);
+
+      const { start: newStart, end: newEnd } = 
+      MoveCursor(oldText, newText, startSel, endSel);
+
+      textareaRef.current.setSelectionRange(newStart, newEnd);
+
+    }
+    else {
+      setText(doc.localText);
     }
 
-    updateTextArea();
     setTextAreaChange(false);
 
-  }, [textAreaChange, document])
+  }, [textAreaChange, doc])
 
-  // load the document
+  // load the doc
   useEffect(() => {
     console.log('Loading Document.');
     socket.emit('load-doc', { docId: docId });
   }, [socket, docId]);
 
 
-  // socket connection for loading a document
+  // socket connection for loading a doc
   useEffect(() => {
-    // load a document
+    // load a doc
     const loadDoc = (ops : any) => {
-      console.log('Received loaded document.');
+      console.log('Received loaded doc.');
       const opList = [];
       for (const op of ops) {
         opList.push(CreateOp(op, socket.id));
       }
-      setDocument(new Document(opList));
+      setDoc(new Document(opList));
     }
 
     socket.on('full-doc', loadDoc);
@@ -75,7 +90,7 @@ export default function DocumentView () {
   useEffect(() => {
     const opAcknowledged = (ops : any) => {
       console.log('Local op acknowledged.');
-      if (!document.hasPending()) setWaiting(false);
+      if (!doc.hasPending()) setWaiting(false);
     }
 
     socket.on('op-acknowledged', opAcknowledged);
@@ -84,7 +99,7 @@ export default function DocumentView () {
     return () => {
       socket.off('op-acknowledged', opAcknowledged);
     }
-  }, [socket, document]);
+  }, [socket, doc]);
 
 
   // socket connection for receiving a confirmed op
@@ -94,11 +109,11 @@ export default function DocumentView () {
     const registerConfirmed = (op : any) => {
       console.log('Register confirmed');
       const operation = CreateOp(op, socket.id);
-      document.pushConfirmedOp(operation, op.index);
+      doc.pushConfirmedOp(operation, op.index);
       
       setTextAreaChange(true);
-      setLocalOps(document.localOps.length);
-      if (!document.hasPending()) setWaiting(false);
+      setLocalOps(doc.localOps.length);
+      if (!doc.hasPending()) setWaiting(false);
     }
 
     socket.on('new-op', registerConfirmed);
@@ -107,7 +122,7 @@ export default function DocumentView () {
     return () => {
       socket.off('new-op', registerConfirmed);
     };
-  }, [socket, document]);
+  }, [socket, doc]);
 
 
 
@@ -116,29 +131,35 @@ export default function DocumentView () {
 
     // send local ops to server
     const sendLocalOp = async () => {
-      if (socket && !waiting && document.localOps.length > 0) {
+      if (socket && !waiting && doc.localOps.length > 0) {
         console.log('Sending Local Op');
         setWaiting(true);
 
         // get the op
-        const opInfo : any = document.pullLocalOp();
+        const opInfo : any = doc.pullLocalOp();
         opInfo.docId = docId;
 
         // send the op
         socket.emit('operation', opInfo);
 
-        setLocalOps(document.localOps.length);
+        setLocalOps(doc.localOps.length);
       }
     }
     sendLocalOp();
-  }, [socket, document, docId, waiting, localOps]);
+  }, [socket, doc, docId, waiting, localOps]);
+
+
+  const onChangeTextArea = (e : React.ChangeEvent<HTMLTextAreaElement>) => {
+    const { value } = e.target;
+    localChange(value);
+  }
 
 
   return (
     <div>
       <h1>Document</h1>
       <form>
-        <TextArea value={text} onChange={v => localChange(v)} />
+        <textarea ref={textareaRef} value={text} onChange={onChangeTextArea} />
       </form>
     </div>
   )
