@@ -87,6 +87,7 @@ const sockets = (server : http.Server) => {
     // listen for new ops
 
     eventEmitter.on('new-op', (data: any) => {
+      logger.info('Received op.');
 
       if (data.docId === currentDocId) {
         socket.emit('new-op', data.op);

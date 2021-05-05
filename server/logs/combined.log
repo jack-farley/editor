@@ -159,3 +159,913 @@
 {"timestamp":"2021-04-19 15:10:03","level":"info","message":"Loading document in service"}
 {"timestamp":"2021-04-19 15:10:03","level":"info","message":"Sent full document."}
 {"timestamp":"2021-04-19 15:10:17","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:09:39","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-21 14:09:39","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-21 14:09:40","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-21 14:10:52","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-21 14:10:52","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:10:52","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-21 14:10:52","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:10:58","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-21 14:10:58","level":"http","message":"/documents - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-21 14:11:00","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:11:01","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-21 14:11:01","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:11:02","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:11:03","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-21 14:11:03","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:11:03","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:11:03","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:11:03","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-21 14:11:04","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:11:04","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:11:04","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-21 14:11:26","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:11:27","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:11:27","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:11:27","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:11:27","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-21 14:11:44","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:11:45","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:11:45","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:11:45","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:11:45","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-21 14:12:29","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:12:30","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:12:30","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:12:30","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:12:30","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-21 14:12:37","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:12:37","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:12:37","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:12:37","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:12:37","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-21 14:12:45","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:12:47","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:12:47","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:12:47","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:12:47","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-21 14:13:01","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:13:02","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:13:02","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:13:02","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:13:02","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-21 14:13:03","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:13:04","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:13:04","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:13:04","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:13:04","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-21 14:13:06","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:13:06","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:13:06","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:13:06","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:13:06","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-21 14:13:11","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:13:11","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:13:11","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:13:11","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:13:11","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-21 14:14:16","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-04-21 14:14:16","level":"info","message":"Express loaded."}
+{"timestamp":"2021-04-21 14:14:16","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-04-21 14:14:16","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:14:17","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:15:02","level":"error","message":"Cannot read property 'operations' of undefined","stack":"TypeError: Cannot read property 'operations' of undefined\n    at DocumentService.getNumOps (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:31:37)\n    at DocumentService.<anonymous> (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:102:37)\n    at Generator.next (<anonymous>)\n    at C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:14:71\n    at new Promise (<anonymous>)\n    at __awaiter (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:10:12)\n    at DocumentService.pushClientOp (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:93:16)\n    at Socket.<anonymous> (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\api\\sockets\\sockets.js:39:41)\n    at Socket.emit (events.js:314:20)\n    at Socket.emitUntyped (C:\\Users\\Jack\\Dev\\editor\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)"}
+{"timestamp":"2021-04-21 14:15:04","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:15:05","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:15:05","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:15:05","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:15:05","level":"error","message":"Cannot read property 'operations' of undefined","stack":"TypeError: Cannot read property 'operations' of undefined\n    at DocumentService.getOps (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:70:37)\n    at DocumentService.<anonymous> (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:124:30)\n    at Generator.next (<anonymous>)\n    at C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:14:71\n    at new Promise (<anonymous>)\n    at __awaiter (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:10:12)\n    at DocumentService.loadDoc (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\services\\DocumentService.js:122:16)\n    at Socket.<anonymous> (C:\\Users\\Jack\\Dev\\editor\\server\\dist\\api\\sockets\\sockets.js:22:37)\n    at Socket.emit (events.js:314:20)\n    at Socket.emitUntyped (C:\\Users\\Jack\\Dev\\editor\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)"}
+{"timestamp":"2021-04-21 14:15:10","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:15:10","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-21 14:15:10","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:15:13","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:15:13","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-21 14:15:13","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:15:18","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-21 14:15:18","level":"http","message":"/documents - POST - [object Object] - ::1"}
+{"timestamp":"2021-04-21 14:15:21","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:15:21","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-21 14:15:21","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:15:22","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:15:22","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-04-21 14:15:22","level":"info","message":"A user connected."}
+{"timestamp":"2021-04-21 14:15:23","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:15:23","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:15:23","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-21 14:15:23","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-04-21 14:15:23","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-04-21 14:15:23","level":"info","message":"Sent full document."}
+{"timestamp":"2021-04-21 14:15:27","level":"info","message":"Received op."}
+{"timestamp":"2021-04-21 14:18:07","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-04-21 14:18:09","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-05-05 15:35:57","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-05-05 15:35:57","level":"info","message":"Express loaded."}
+{"timestamp":"2021-05-05 15:35:57","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-05-05 15:36:24","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-05-05 15:36:24","level":"info","message":"A user connected."}
+{"timestamp":"2021-05-05 15:36:34","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-05-05 15:36:34","level":"http","message":"/documents - POST - [object Object] - ::1"}
+{"timestamp":"2021-05-05 15:36:36","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-05-05 15:36:36","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-05-05 15:36:36","level":"info","message":"A user connected."}
+{"timestamp":"2021-05-05 15:36:38","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:36:38","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:36:38","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:36:44","level":"info","message":"A user connected."}
+{"timestamp":"2021-05-05 15:36:44","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-05-05 15:36:47","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:36:47","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:36:47","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:36:49","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:49","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:51","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:51","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:51","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:51","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:51","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:51","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:51","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:51","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:52","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:52","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:52","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:52","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:52","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:52","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:52","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:52","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:53","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:53","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:53","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:53","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:53","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:53","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:53","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:53","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:54","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:56","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:56","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:56","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:56","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:56","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:56","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:58","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:36:58","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:02","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:02","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:07","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:07","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:07","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:07","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:07","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:07","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:07","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:07","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:08","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:08","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:08","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:08","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:08","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:08","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:08","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:08","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:08","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:08","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:08","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:08","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:09","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:09","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:09","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:09","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:09","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:09","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:09","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:09","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:09","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:09","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:09","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:09","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:10","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:10","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:10","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:10","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:10","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:10","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:10","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:10","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:10","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:10","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:11","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:11","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:11","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:11","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:11","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:11","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:11","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:11","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:11","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:11","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:14","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:14","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:14","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:14","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:14","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:14","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:17","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:17","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:17","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:17","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:18","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:18","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:18","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:18","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:18","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:18","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:18","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:18","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:18","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:18","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:18","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:18","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:19","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:19","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:19","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:19","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:19","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:19","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:19","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:19","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:19","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:19","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:20","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:21","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:21","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:21","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:21","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:21","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:21","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:21","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:21","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:21","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:21","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:21","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:21","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:22","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:22","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:22","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:22","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:22","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:22","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:22","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:22","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:22","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:22","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:22","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:22","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:23","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:23","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:23","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:23","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:23","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:23","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:24","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:25","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:25","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:25","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:25","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:25","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:25","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:25","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:25","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:25","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:25","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:25","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:25","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:26","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:26","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:26","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:26","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:35","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:35","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:35","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:35","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:35","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:35","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:35","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:35","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:35","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:35","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:35","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:35","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:36","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:36","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:37","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:37","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:37","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:37","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:37","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:37","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:37","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:37","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:37","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:37","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:37","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:37","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:38","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:38","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:38","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:38","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:38","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:38","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:38","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:38","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:39","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:40","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:41","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:41","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:41","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:41","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:43","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:37:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:40:20","level":"info","message":"Dependency Injector loaded."}
+{"timestamp":"2021-05-05 15:40:20","level":"info","message":"Express loaded."}
+{"timestamp":"2021-05-05 15:40:20","level":"info","message":"Sockets loaded."}
+{"timestamp":"2021-05-05 15:40:20","level":"info","message":"A user connected."}
+{"timestamp":"2021-05-05 15:41:25","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-05-05 15:41:25","level":"info","message":"A user connected."}
+{"timestamp":"2021-05-05 15:41:34","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-05-05 15:41:37","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-05-05 15:41:37","level":"http","message":"/documents - POST - [object Object] - ::1"}
+{"timestamp":"2021-05-05 15:41:40","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-05-05 15:41:41","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-05-05 15:41:41","level":"info","message":"A user connected."}
+{"timestamp":"2021-05-05 15:41:42","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:41:42","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:41:42","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:41:46","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:41:48","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:41:48","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:41:48","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:41:48","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:42:35","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:42:35","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:42:35","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:42:35","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:42:42","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:42:42","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:42:42","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:42:42","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:42:45","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:42:45","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:42:45","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:42:45","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:45:46","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:45:46","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:45:46","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:45:49","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-05-05 15:45:50","level":"info","message":"A user connected."}
+{"timestamp":"2021-05-05 15:45:50","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:45:50","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:45:50","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:45:52","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:46:00","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:46:04","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:46:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:46:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:46:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:46:06","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:46:07","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:46:09","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:46:51","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:46:51","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:46:51","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:46:55","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:47:50","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:47:50","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:47:50","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:47:58","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:48:24","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:48:24","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:48:24","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:48:27","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 15:48:35","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 15:48:35","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 15:48:35","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 15:50:26","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:02:28","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:02:28","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:02:28","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:03:53","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:03:53","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:03:53","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:04:56","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:04:56","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:04:56","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:05:48","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:05:48","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:05:48","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:05:52","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:05:52","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:05:52","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:07:13","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:07:13","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:07:13","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:07:23","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:07:30","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:07:32","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:07:32","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:07:32","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:07:32","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:07:32","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:07:47","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:07:59","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:08:31","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:08:31","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:08:31","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:08:39","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:08:39","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:08:39","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:08:42","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:08:42","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:08:42","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:08:44","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:08:53","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-05-05 16:08:54","level":"info","message":"A user connected."}
+{"timestamp":"2021-05-05 16:08:54","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:08:54","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:08:54","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:08:56","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-05-05 16:08:56","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-05-05 16:08:56","level":"info","message":"A user connected."}
+{"timestamp":"2021-05-05 16:09:07","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-05-05 16:09:07","level":"info","message":"A user connected."}
+{"timestamp":"2021-05-05 16:09:08","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:09:08","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:09:08","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:09:09","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:09:09","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:09:09","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:09:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:12","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:13","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:14","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:14","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:14","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:14","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:14","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:14","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:15","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:16","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:17","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:17","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:17","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:17","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:17","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:17","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:17","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:17","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:19","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-05-05 16:09:21","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-05-05 16:09:21","level":"info","message":"A user connected."}
+{"timestamp":"2021-05-05 16:09:22","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:09:22","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:09:22","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:09:23","level":"info","message":"Received op."}
+{"timestamp":"2021-05-05 16:09:40","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-05-05 16:09:41","level":"info","message":"A user requested to load a document."}
+{"timestamp":"2021-05-05 16:09:41","level":"info","message":"Loading document in service"}
+{"timestamp":"2021-05-05 16:09:41","level":"info","message":"Sent full document."}
+{"timestamp":"2021-05-05 16:10:08","level":"info","message":"A user diconnected."}
+{"timestamp":"2021-05-05 16:11:26","level":"http","message":"/documents - GET - [object Object] - ::1"}
+{"timestamp":"2021-05-05 16:11:26","level":"info","message":"A user connected."}
+{"timestamp":"2021-05-05 16:12:19","level":"info","message":"A user diconnected."}

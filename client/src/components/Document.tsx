@@ -37,6 +37,7 @@ export default function DocumentView () {
   useEffect(() => {
 
     if (textareaRef.current) {
+      console.log('Updating text');
       const startSel = textareaRef.current.selectionStart;
       const endSel = textareaRef.current.selectionEnd;
 
@@ -57,7 +58,7 @@ export default function DocumentView () {
 
     setTextAreaChange(false);
 
-  }, [textAreaChange, doc])
+  }, [text, textAreaChange, doc])
 
   // load the doc
   useEffect(() => {
