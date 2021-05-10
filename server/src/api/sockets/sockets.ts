@@ -29,8 +29,8 @@ const sockets = (server : http.Server) => {
       currentDocId = docId;
 
       const DocumentServiceInstance = Container.get(DocumentService);
-      DocumentServiceInstance.loadDoc(docId).then((ops) => {
-        socket.emit('full-doc', ops);
+      DocumentServiceInstance.loadDoc(docId).then((doc) => {
+        socket.emit('full-doc', doc);
         logger.info('Sent full document.');
       }).catch((err) => {
         logger.error(err);

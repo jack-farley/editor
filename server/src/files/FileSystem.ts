@@ -20,7 +20,7 @@ class FileSystem {
   }
 
   public getDocumentIds() {
-    return this.documents.keys();
+    return Array.from(this.documents.keys());
   }
 }
 

@@ -1,19 +1,19 @@
 import React, { useEffect, useState } from 'react';
-import { getDocIds } from '../lib/files';
+import { getDocs } from '../lib/files';
 import { Link } from 'react-router-dom';
-import { Form, Button} from 'react-bootstrap';
+import { Form, Button, Row, Col, ListGroup } from 'react-bootstrap';
 import { createDocument } from '../lib/files';
 
 import './Home.css';
 
 export default function Home () {
 
-  const [docIds, setDocIds] = useState<string[]>([]);
+  const [docs, setDocs] = useState<{id: string, name: string}[]>([]);
   const [name, setName] = useState<string>();
   const [refresh, setRefresh] = useState<boolean>(false);
 
   useEffect(() => {
-    getDocIds().then(response => setDocIds(response));
+    getDocs().then(response => setDocs(response));
   }, [refresh]);
 
   const onSubmit = (event : any) => {
@@ -29,43 +29,45 @@ export default function Home () {
     setName(event.target.value);
   }
 
-
-  console.log(docIds);
-
   return (
-    <div>
-      <h1>Documents</h1>
+    <div className="center-column">
+      <div className="title-section">
+        <h1>Editor</h1>
+      </div>
 
-      <ul>
-        {docIds.map((docId) => {
-          return (
-            <li key={docId}>
-              <Link to={`/${docId}`}>
-              {docId}
-              </Link>
-            </li>
-          );
-        })}
-      </ul>
+      <div>
+        <ListGroup>
+          {docs.map((doc) => {
+            return (
+              <ListGroup.Item action href={`/${doc.id}`}>
+                {doc.name}
+              </ListGroup.Item>
+            );
+          })}
+        </ListGroup>
+      </div>
 
-      <h2 className="create">Create Document</h2>
-
-      <Form onSubmit={onSubmit}>
-        <Form.Group>
-          <Form.Label>Name</Form.Label>
-          <Form.Control 
-            type="text" 
-            placeholder="Document name"
-            value={name}
-            onChange={onInput}
-          />
-
-        </Form.Group>
-
-        <Button variant="primary" type="submit">
-          Create
-        </Button>
-      </Form>
+      <div className="create-section">
+        <Form onSubmit={onSubmit}>
+          <Row>
+            <Col xs={3} sm={2} xl={1}>
+              <Button variant="primary" type="submit">
+                Create
+              </Button>
+            </Col>
+            <Col>
+              <Form.Group>
+                <Form.Control 
+                  type="text" 
+                  placeholder="Document Name"
+                  value={name}
+                  onChange={onInput}
+                />
+              </Form.Group>
+            </Col>
+          </Row>
+        </Form>
+      </div>
     </div>
   )
 }

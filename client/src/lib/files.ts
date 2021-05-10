@@ -3,13 +3,13 @@ import config from '../config';
 
 const url = config.url;
 
-export async function getDocIds() {
+export async function getDocs() {
   try {
     console.log('Loading document ids.');
-    const response = await axios.get<string[]>(url + '/documents');
-    const docIds = response.data;
+    const response = await axios.get<{id: string, name: string}[]>(url + '/documents');
+    const docs = response.data;
 
-    return docIds;
+    return docs;
 
   } catch (err) {
     console.error(err);

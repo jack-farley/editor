@@ -5,6 +5,8 @@ import { useParams } from 'react-router-dom';
 import { SocketContext } from '../context/socket';
 import { Document, CreateOp, GetChanges, MoveCursor } from '../lib';
 
+import "./Document.css";
+
 
 export default function DocumentView () {
 
@@ -15,7 +17,8 @@ export default function DocumentView () {
 
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
-  const [doc, setDoc] = useState(new Document([]));
+  const [doc, setDoc] = useState(new Document("id", "Document", []));
+  const [docName, setDocName] = useState("");
   const [text, setText] = useState("");
   const [waiting, setWaiting] = useState(false);
   const [localOps, setLocalOps] = useState(0);
@@ -70,13 +73,14 @@ export default function DocumentView () {
   // socket connection for loading a doc
   useEffect(() => {
     // load a doc
-    const loadDoc = (ops : any) => {
+    const loadDoc = (doc : any) => {
       console.log('Received loaded doc.');
       const opList = [];
-      for (const op of ops) {
+      for (const op of doc.ops) {
         opList.push(CreateOp(op, socket.id));
       }
-      setDoc(new Document(opList));
+      setDoc(new Document(doc.id, doc.name, opList));
+      setDocName(doc.name);
     }
 
     socket.on('full-doc', loadDoc);
@@ -157,11 +161,23 @@ export default function DocumentView () {
 
 
   return (
-    <div>
-      <h1>Document</h1>
-      <form>
-        <textarea ref={textareaRef} value={text} onChange={onChangeTextArea} />
-      </form>
+    <div className="center-column">
+      <div className="title-section">
+        <h1>{docName}</h1>
+      </div>
+
+      <hr></hr>
+
+      <div className="text-section">
+        <form>
+          <textarea 
+            ref={textareaRef} 
+            value={text} 
+            onChange={onChangeTextArea} 
+            className="text"
+          />
+        </form>
+      </div>
     </div>
   )
 }

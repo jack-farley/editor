@@ -1,0 +1,19 @@
+.center-column {
+  width: 80%;
+}
+
+.title-section {
+  text-align: center;
+}
+
+.text-section {
+  width: 100%;
+}
+
+.text {
+  display: block;
+  width: 90%;
+  margin: auto;
+  height: 75vh;
+  resize: none;
+}

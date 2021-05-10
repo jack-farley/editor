@@ -2,6 +2,9 @@ import { Operation, InsertOp, DeleteOp, Transform, OpType } from './operations';
 
 class Document {
 
+  public id : string;
+  public name : string;
+
   private confirmedOps : Operation[];
   public localOps : Operation[];
   private pendingLocalOps : Operation[];
@@ -13,7 +16,10 @@ class Document {
   public localText: string;
   private localVersion: number;
 
-  constructor (ops : Operation[]) {
+  constructor (id: string, name: string, ops : Operation[]) {
+    this.id = id;
+    this.name = name;
+
     this.confirmedOps = ops;
 
     this.localOps = [];

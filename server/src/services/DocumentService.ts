@@ -38,7 +38,15 @@ export default class DocumentService {
   }
 
   private getDocs() {
-    return Array.from(fs.getDocumentIds());
+    const docs = [];
+    const docIds = fs.getDocumentIds();
+    docIds.forEach((id) => {
+      docs.push({
+        id,
+        name: fs.getDocument(id).name,
+      });
+    });
+    return docs;
   }
 
   private getDocString(docId: string) {
@@ -68,6 +76,10 @@ export default class DocumentService {
 
   private getOps (docId: string) {
     return fs.getDocument(docId).operations;
+  }
+
+  private getDoc (docId: string) {
+    return fs.getDocument(docId);
   }
 
 
@@ -136,8 +148,13 @@ export default class DocumentService {
 
   public async loadDoc(docId : string) {
     logger.info('Loading document in service');
-    const ops = this.getOps(docId);
-    const res = ops.map((op) => {return op.toJSON()});
-    return res;
+    const doc = this.getDoc(docId);
+    const resOps = doc.operations.map((op) => {return op.toJSON()});
+
+    return {
+      id: doc.id,
+      name: doc.name,
+      ops: resOps,
+    };
   }
 }
