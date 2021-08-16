@@ -6,4 +6,4 @@ Right now there is no persistent document storage, user accounts or the ability 
 
 I will continue to work on this and try to build out more features.
 
-(There is currently a bug in the client that moves the cursor to the end of the document every time text is added. I am working on fixing that.)
+(There is currently a bug in the client that moves the cursor to the end of the document every time text is added. I'm working on fixing that.)
