@@ -1,6 +1,6 @@
 # Editor
 
-This is a shared document editor that I build using the Operational Transformation algorithm. 
+This is a shared document editor that I built using the Operational Transformation algorithm. 
 
 Right now there is no persistent document storage, user accounts or the ability to import documents. For this version, I focused on getting the concurrency correct, which ended up being pretty involved.
 
